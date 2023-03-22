@@ -2,7 +2,7 @@
 <img src="https://cdn.coodesh.com/companies/f44baa90-65bc-11ed-9234-a9b3679f5e3f/f44baa91-65bc-11ed-9234-a9b3679f5e3f.png" width="175px"> 
 </div>
 <h1 align="center">Desafio Minsait Treinamento BI</h1>
-<h4 align="center">O Seguinte projeto consiste num desafio realizado no treinamento de Business Intelligence realizado entre 25/03/2023 e  na empresa Minsait com o intuito de incluir as etapas de importação dos dados, transformação e apresentação numa ferramenta de Power BI .</h4>
+<h4 align="center">O Seguinte projeto consiste num desafio realizado no treinamento de Business Intelligence realizado entre 25/03/2023 e 01/04/2023 na empresa Minsait com o intuito de incluir as etapas de importação dos dados, transformação e apresentação numa ferramenta de Power BI .</h4>
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
