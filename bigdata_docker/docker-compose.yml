@@ -7,6 +7,7 @@ services:
     hostname: namenode
     volumes:
       - ./data/hdfs/namenode:/hadoop/dfs/name
+      - ../input:/opt/input
     environment:
       - CLUSTER_NAME=test
     env_file:
@@ -24,6 +25,7 @@ services:
     hostname: datanode
     volumes:
       - ./data/hdfs/datanode:/hadoop/dfs/data
+      - ../input:/opt/input
       #- ./data/hadoop/bank:/bank
     env_file:
       - ./data/hadoop/hadoop-hive.env
