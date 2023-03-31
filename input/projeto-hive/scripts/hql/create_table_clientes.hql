@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS desafio.clientes ( 
+CREATE TABLE IF NOT EXISTS desafio_curso.clientes ( 
     id_categoria string,
     ds_categoria string,
     perc_parceiro string
