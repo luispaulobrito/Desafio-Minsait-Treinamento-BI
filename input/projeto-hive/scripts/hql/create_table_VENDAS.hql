@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS desafio_curso.vendas ( 
     Actual_Delivery_Date string,
-    CustomerKey string,
+    Customer_Key string,
     Date_Key string,
     Discount_Amount string,
     Invoice_Date string,

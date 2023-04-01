@@ -26,7 +26,6 @@ services:
     volumes:
       - ./data/hdfs/datanode:/hadoop/dfs/data
       - ../input:/opt/input
-      #- ./data/hadoop/bank:/bank
     env_file:
       - ./data/hadoop/hadoop-hive.env
     environment:
