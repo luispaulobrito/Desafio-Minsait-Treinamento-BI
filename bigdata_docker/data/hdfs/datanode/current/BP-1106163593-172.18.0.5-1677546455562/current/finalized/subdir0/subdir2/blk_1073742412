@@ -1,0 +1,617 @@
+PK_LOCALIDADE;address_number;city;country;state;zip_code;division;division_name;region_code;region_name;customer_address_1;customer_address_2;customer_address_3;customer_address_4
+c949b976cf3256adce531aa155f5d96c38d18055321c46a499bf54320486b67c;10020306;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d5410116da8095faee033a9f5996137502db2bc9edf89e3c97cc559f4c36f13b;10025061;Canton;US;OH;44708;2;Domestic;4;Central;PO Box 80509;Nao Informado;Nao Informado;Nao Informado
+83483cd3a8b54d402f1e8454c6c7a076ce44717ecbefa99c62bcef98028a2264;10002155;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a051d7de462a13075145434618c6976e80891dcbffaee151d4f29d14e4befc52;10008602;Wells;US;ME;4090;2;Domestic;3;Northeast;209 Sanford Road (Route 109);Nao Informado;Nao Informado;Nao Informado
+00374ed5f6763a4de5ba6976dbd3f20d2681be9caf59e53b6aed7e96a02bec34;10012715;Exeter;US;PA;18643;2;Domestic;3;Northeast;44 Tunkhannock Avenue;Nao Informado;Nao Informado;Nao Informado
+5590ed8b20dbd4666eecc3dec479ebbba3cdf0c6d2f24bdf389a3ae15486867c;10015783;Philadelphia;US;PA;19132;2;Domestic;3;Northeast;Attention: Anna Markert;3111 W Allegheny Avenue;Nao Informado;Nao Informado
+b3a83acb25050ad590485423f46ca1ddc08e41050824bb39e691516cf5256882;10019105;Mechanicsville;US;VA;23111;2;Domestic;3;Northeast;6029 Mechanicsville Pike;Nao Informado;Nao Informado;Nao Informado
+80099bb666aef84bbc7809a5860a8c1a3d86a0dc5850f107f1112f0ed28d6f86;10015886;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+76b6e02d18d1aa4ddc5eaaf75a402fca7235a9131d366ae0670ba162fcd0b46c;10015011;SE-132 28 Saltsjo-Boo;AU;Nao Informado;Nao Informado;1;International;5;International;Svarvarvagen 14;Nao Informado;Nao Informado;Nao Informado
+aa4be9a75215fee18892e910f9c62b43aff1344be35c72d38644d7cb2fee2841;10021297;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e1691b1a5f17b8a4225174ec217e4047ffaef2e810c1ed42ccbc1edb8236b7a4;10023715;Plainfield;US;IN;46168-0600;2;Domestic;4;Central;Central Division;PO BOX 600;Nao Informado;Nao Informado
+5aef9bb17931c3ac82fca9da36f865796377021af4d85ea040c6fe5edfbbde8d;10020915;McHenry;US;IL;60050;2;Domestic;4;Central;2600 West Route 120;Nao Informado;Nao Informado;Nao Informado
+e2be74e80b65b4bf1bc32c20b69d5cb19c17b545156378c028c96afb6c0253ab;10019909;Shawano;US;WI;54166;2;Domestic;4;Central;500 Airport Drive;Nao Informado;Nao Informado;Nao Informado
+0f43a37be639cf617e144f08491564a0d400ddbce5cd6eb8b168d5cc2257d550;10002765;Hialeah;US;FL;33014;2;Domestic;2;Southern;4760 NW 165th Street;Nao Informado;Nao Informado;Nao Informado
+a8846beab4ac20ba93f153b0f5c65c258fab8b619c5c085c70f4862d79dcd962;10024880;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0371ada067a342ef5458e53044f11fb91d53ae4b27f315547af66546350bf9b1;10022978;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a574f4704b7f759e70eafbd98f96708ca09d7e8ffde49d43cabf497e12ed4dba;10023513;Stockton;US;CA;95205;2;Domestic;1;Western;640 N Eldorado Street;Nao Informado;Nao Informado;Nao Informado
+a4da5e2017804b6c2672579f2885f505f55d87511afc35109e5a0817d4f65180;10019897;El Paso;US;TX;79915;2;Domestic;2;Southern;7210 Gateway East;Nao Informado;Nao Informado;Nao Informado
+ccf9c32f8c0282c0fee69d699d434385a1a16b039b38a423aa4df30e617f77c0;10010887;Edmonton;CA;AB;T6E 0B2;1;International;0;Canada;9605 56th Avenue;Nao Informado;Nao Informado;Nao Informado
+8878f0e6b29dd295910220d2a932d7a83478a9d3efe182c42980ee324f56eaf3;10012157;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6e40b891f4fd52bf57a232662fbb68eafa4eff6fbd837ce23ab492b394c375a6;10025051;Anchorage;US;AK;99518;2;Domestic;1;Western;1301 East 64th Avenue;Nao Informado;Nao Informado;Nao Informado
+2cc273a7715da347cadc0aaf96fead69ffd3aac679fa51a984ef71bb24028125;10025034;Corona;US;CA;91720;2;Domestic;1;Western;395 Smitty Way;Nao Informado;Nao Informado;Nao Informado
+a7c709f477e1ffe355b9a3374a1721f631118d182c2988328511a7fb0ba20d97;10009676;Kalamazoo;US;MI;49007;2;Domestic;4;Central;167 East Kalamazoo Avenue;Nao Informado;Nao Informado;Nao Informado
+1b3bc23b62d00abc03236803dd2fee7963a9b86eebe8a94fb14f3dadcf96a6c9;10014264;Springfield;US;MO;65898;2;Domestic;4;Central;1935 S Campbell;Nao Informado;Nao Informado;Nao Informado
+150770906bdce6d740aee1a975e726fadf0b5150255d9795ad7d1d764e41664c;10018868;Nao Informado;AU;Nao Informado;Nao Informado;1;International;5;International;PO Box 871 Safat;Nao Informado;Nao Informado;Nao Informado
+50bdc9594509cc7fbdd98a79b9a026cbc2cc3a65989b02563f0c6e35e5fdc5d0;10025288;Furstentum;AU;Nao Informado;Nao Informado;1;International;5;International;Kirchstrasse 39;FL 9490 Vaduz;Nao Informado;Nao Informado
+665db968a5c634a531d18721b3bcbf691b7807da680ca61fdc83fe9fe1881e7d;10005006;Boise;US;ID;83716;2;Domestic;1;Western;601 East Gowen Road;Nao Informado;Nao Informado;Nao Informado
+ebecb0fc2989ef0d1b17a8d27e2f1d7393ccb430fbcad5b0659213e713054e0d;10026532;Garner;US;IA;50438;2;Domestic;4;Central;500 Highway 18 West;Nao Informado;Nao Informado;Nao Informado
+634141cfd9d6d466d94d80502afb260055af454ae15dd1bf7da2df34cf01e634;10025300;West Sayville;US;NY;11796;2;Domestic;3;Northeast;Attention: Paul Grady;105 Montauk Highway;Nao Informado;Nao Informado
+cbf6eda51d84fb453e693768b22f80f91393256e9b560b7080375f354ee1e4d3;10018146;Fort Macleod;CA;AB;T0L 0Z0;1;International;0;Canada;Box 1178;Nao Informado;Nao Informado;Nao Informado
+09f949e1a6bbcf5f123dd3e33cd562f742ce3fdbb677fca667a0a78dbca2010b;10001818;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0ecf050848af0516739653471e88791880f618f09765b3029d10a2602383effe;10026334;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c2401b90e9ccfdd55769c46dec67efe159140ff9f1b4af4622cd6aa879b738f1;10017314;El Paso;US;TX;79925;2;Domestic;2;Southern;8901 Montana Avenue;Nao Informado;Nao Informado;Nao Informado
+ac41919bf95ea04f010622550cccc1b195118126c49a99363a307a1e21135d8f;10025052;Songtan SI;AU;Nao Informado;459-050;1;International;5;International;150-3 Chilkei-Dong;Nao Informado;Nao Informado;Nao Informado
+d6d4b1b75aad2c0ed49d79d9a121c0608cf161ecc4cf545e8eac78e1048e39de;10026023;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8b0f5f460b11c51517ce6ac072491b1fd58ca6c92c5a07800af464665aed63bc;10015824;South Bend;US;IN;46634-7005;2;Domestic;4;Central;PO Box 7005;Nao Informado;Nao Informado;Nao Informado
+501a8df75f37e6c5c94e43414624ce46a2458a7ed7ff023897792b2c1b74dae6;10021300;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+88fcb14b2319f8ce1c1f10cdd494c48bc6bf08ff23861d2dfe8294bf2b04879a;10025036;Kansas City;US;MO;64139-1538;2;Domestic;4;Central;1920 East Front Street;Nao Informado;Nao Informado;Nao Informado
+f17308a5ae55f2c452bab3ec7153fcc83d2434b1d668d9fb2a6aea7806cc7f92;10018867;Flint;US;MI;48507;2;Domestic;4;Central;2400 R E O Drive;Nao Informado;Nao Informado;Nao Informado
+f886aad92f6892e6b3d8fdba84da1784569610b15e8cd5ce30e0c68d83a95a47;10024541;Bedford;US;OH;44146;2;Domestic;4;Central;Americas Body Company;PO Box 46539;Nao Informado;Nao Informado
+dc4ab8eac35fb0b15e5d0e13f6b975acb8906240fc45332e504318103dd184e9;10011997;Roanoke;US;VA;24013;2;Domestic;3;Northeast;2177 Dale Avenue SE;Nao Informado;Nao Informado;Nao Informado
+b939e27c5fad4ef1b29b5ec94dd9f2f7058816389d0400f6f4d7fa7f94eb93e9;10014043;Guadalajara Jal Mexico;IR;Nao Informado;44530;1;International;5;International;Rinconada De La Floresta 1137;Rinconada Del Bosque CP;Nao Informado;Nao Informado
+1b29a90785e8aecf7cdc85b180a3a0a5ee1831ce378b0eebae7fa30c748c77e1;10020080;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+ff6f3b2dbc598aa3e2b79d0c37559734337244a14e0366bc71f35c79907179c1;10024034;Edmonton;CA;AB;T5V 1C7;1;International;0;Canada;16215 118th Avenue;Nao Informado;Nao Informado;Nao Informado
+cde11035cb6c7eb9af94e19be35a4084950465840d32070c1a6f5e2bee7a1e90;10025237;Oakville;CA;ON;L6J 5E6;1;International;0;Canada;Central Accounting Service;PO Box 2900;Nao Informado;Nao Informado
+1e884846e910055f355cf043b5114a21c4833363ecab8f9d70a0367c60c1b4d1;10021175;Johnson City;US;TN;37602-5418;2;Domestic;2;Southern;PO Box 5418;Nao Informado;Nao Informado;Nao Informado
+ce7b3e92557fc8e6b291786bbe01c6fb80758527a52c5d9903b391e43071feeb;10011360;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+1f989d610d04b5e35d4eb4d3a0224686317792201f38567196664990570fe99f;10025063;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Private Mail Bag 53;St Peters NSW 2044;Nao Informado;Nao Informado
+a0e0d29d9e1421a6c1db4f6fc8797b3fb01b7a5bde1f8efed42751f67cd7bfe4;10022183;Breckenridge;US;CO;80424;2;Domestic;1;Western;1760 C Airport Road;Nao Informado;Nao Informado;Nao Informado
+bfb68afc7842af9178c68d0122c45458ffa876ee7fb9a1d33b85575f23c76ccc;10025248;Kent;US;WA;98032;2;Domestic;1;Western;730 North Central;Nao Informado;Nao Informado;Nao Informado
+2214f5547d4538c482952aa183ff8eac51f21e0bcb21fc1be44ddcec354a412a;10026839;Greenwood;US;MS;38930;2;Domestic;2;Southern;1201 Sycamore Avenue;Nao Informado;Nao Informado;Nao Informado
+a67eee3a0592eae787c7327e3e3a0821aa14370620631dc532c7ed476a440158;10025508;Moncton;CA;NB;E1E 1H5;1;International;0;Canada;1809 Main Street;Nao Informado;Nao Informado;Nao Informado
+5a503ee58a3744388799f780cce2b76f6d464fd6f1e068ec5d02e7c7af967376;10011979;4100 Porto;UK;Nao Informado;Nao Informado;1;International;5;International;Rua Eng Ferreira Dia 241-243;Nao Informado;Nao Informado;Nao Informado
+e568f063ea6e7b1facae47d44d326d40ca3665c68c745e44239daa80cae737d3;10026009;Nao Informado;AU;Nao Informado;Nao Informado;1;International;5;International;2 Calle 25-80 Zona - 15 Vista;Hermosa II Local 2;Nao Informado;Nao Informado
+d88dd76cf57de930f0b4124603aa895ddd03e6cf91ceaf35ea21384f3cb91273;10024006;Columbiana;US;OH;44408;2;Domestic;4;Central;PO Box 57;Nao Informado;Nao Informado;Nao Informado
+00d0c4704abecef7e78fd70262d0b88d9f84dbd3c727548dbaff03b2a08dfc40;10009679;Meridian;US;MS;39307;2;Domestic;2;Southern;2400 Highway 19N;Nao Informado;Nao Informado;Nao Informado
+aea733823ebc3d8a553761f94a8487a6c1222d3e299b381379ce29651ef6877f;10020364;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+cb4e374ed65a8ae002fe7edf2324297efe9e34242079c5944331946f6f880266;10024524;New Hampton;US;IA;50659;2;Domestic;4;Central;PO Box 511;Nao Informado;Nao Informado;Nao Informado
+a8847c30cf50d1bad6f1ec28cf5deee3c9d3a0efa38c885eaeede82a860d28da;10023244;Cleveland;US;MS;38732-0899;2;Domestic;2;Southern;PO Box 899;Nao Informado;Nao Informado;Nao Informado
+9e2f32e3ebc5e76c3734d2b90bae8c5dd8d349c381b40e90f055a9297a49f592;10026355;Casper;US;WY;82604;2;Domestic;1;Western;1275 North 6 Mile Road;Nao Informado;Nao Informado;Nao Informado
+59cb390e990e590cd5de9161a5f2e7edcf2d5e2d441cd17a489fba336499de7c;10010990;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e2ed4340dee3b87d39a93a46b1ee75564d6b1545de7c45759c79f5c92ae36ae8;10023511;Schiphol-Rijk;IR;Nao Informado;Nao Informado;1;International;5;International;Bellsingel 2 1119NV;Nao Informado;Nao Informado;Nao Informado
+e1a3c0d44fedf299551202e2bd99aab94ccd91af487ba295dc8c940b88b26be9;10025267;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2a5582691371b51d54f58d29199cf9d74d5440d39ae6be20de34cd9a4686976c;10019066;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2b214e9a2b02672b189a20857a3b5c0f29ea6d99ab0a25a1868484d39c9d4315;10019900;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+585e84ff54bebd105c45f7b224bc2e6587e4daae43879d02214d0202331f6e59;10025287;Brookfield;US;WI;53008;2;Domestic;4;Central;PO Box 366;Nao Informado;Nao Informado;Nao Informado
+7c547dae429089a2b48776bb6e8cb7a1193c760e02ed3270d88625391bfef9b6;10013538;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+019a897025cc0a6ebf0dfe9c477c23e8d3fdb211bbf22f04569c6c126129ee9f;10021160;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b18ee616330868d571e0a06d405e5675899d2fa4e6c8b4782150f4ca1d13e753;10000501;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e06c79849804f647bbbb2aebfde82e5416efe4013d3e378c674b032cecf2cabf;10005922;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e6235007c40050c2d9dd3ececfee04149393f5aaef3e9805a0df46094de943bf;10012234;Hayward;US;CA;94540;2;Domestic;1;Western;PO Box 4658;Nao Informado;Nao Informado;Nao Informado
+51d37e81e2bcec2e7cc69890bc95e2a024d54a5bf525184d9248a599083d2e1b;10024270;Maxwell;US;CA;95955;2;Domestic;1;Western;PO Box 1010;Nao Informado;Nao Informado;Nao Informado
+0c97002b58209631753c33d5300582264862a2724cd0cb11bcb116e524fb0f0f;10017072;Chicago;US;IL;60609;2;Domestic;4;Central;4200 S Morgan Street;Nao Informado;Nao Informado;Nao Informado
+4cbbeb18072d478751ad8a1606bab763d52ed8bc616fd82441e57a3eb9f22c07;10019469;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c5ca0614bc961d694ccf173dbc55e030ee3be4043c4e95a794a91bef2ceb2e6a;10019514;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+55f4731e910c4326706be29a4723c10a4a1b3406fdc306aec5f3c67f1c1a748c;10024942;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b48ab721c933da98babd51bf0284a3b6bb829cf34ba83b2b1408fa39de7c7aa1;10011089;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7556d5c7ca6001546e369afd03263cf042c506f5401e1fefbdf89811006e357a;10025291;Dover;US;OH;44622;2;Domestic;4;Central;217 West 3rd Street;Nao Informado;Nao Informado;Nao Informado
+cc85cc1013082b86f209096a320e81d74f05f007617e08b536c7f69751836ab1;10022249;Shelby;US;NC;28152;2;Domestic;2;Southern;201 Old Boiling Springs Road;Nao Informado;Nao Informado;Nao Informado
+a3835eb0448a88fc898241c749fef43cbac496be7096f900103d3bdfee0e13ea;10019410;Edmonton;CA;AB;T6B 0A8;1;International;0;Canada;6710 76 Avenue;Nao Informado;Nao Informado;Nao Informado
+888cbd42bf3df2657410e4484a36b773a7d7cd18af35c5e8aaefd8b838e6e97e;10013670;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c99a1dde50e9bf19059118bc769b54c98ec4aa1b7469e466adfb07df30d7610e;10015030;Anchorage;US;AK;99501;2;Domestic;1;Western;2192 Viking Drive;Nao Informado;Nao Informado;Nao Informado
+028f9eaa2cf599b62ccad7e58a6a042218acfe6dfac4be9ce95eab62cec3bc06;10010974;Chippewa Falls;US;WI;54729;2;Domestic;4;Central;13296 County Highway 00;Nao Informado;Nao Informado;Nao Informado
+cb94a764f23db819fad3fe1cb16323602afda1b2b0c372c4ce408456d8befbaa;10022730;Warren;US;MI;48091-2991;2;Domestic;4;Central;21533 Mound Road;Nao Informado;Nao Informado;Nao Informado
+23a32ed9603ce91274d2c7b701b0e819e28e8040aeec347a61a2abe7b0e89bde;10011345;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a67344a5a28b7353210b1cb492cae92b3d2516c94dc68a88baefc834341eb126;10002153;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0ae16ee8eeca60d50f295d6e9db4ec46b990fbfedd5383bda86e9e850e5728e1;10023783;Pine Bluff;US;AR;71611-7647;2;Domestic;2;Southern;PO Box 7647;Nao Informado;Nao Informado;Nao Informado
+e2ed331e45ff846d472fa2af8c585d2b57b69b201e408fac0cff8c6ddcbae22e;10011198;Framingham;US;MA;1702;2;Domestic;3;Northeast;703 Waverly Street;Route 135;Nao Informado;Nao Informado
+b76568d6689268aa1f01a2a6282d1682978c317f08197289a714057cdee7380e;10006917;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c324bd95e84579f1f4eacc1e37df05edc10ec257683e473787dce7433395331d;10002526;EE 0026 Tallinn;UK;Nao Informado;Nao Informado;1;International;5;International;Kadaka Road 72 a;Nao Informado;Nao Informado;Nao Informado
+909ea560ee6ab06d85e2bf3c3119f34a9cb0e2f508fc1eb27965607379c881ea;10000486;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a7e060752e21e8ba6eee7b15a98ed33ee5201026a26624843dad47487c8f7ee1;10018580;Beaumont;US;TX;77704;2;Domestic;2;Southern;PO Box 790;Nao Informado;Nao Informado;Nao Informado
+d69bb7c8d7a98846fe4d818e82726d30a42cd4dc5c80b2af3d5d80527d46dd20;10006983;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+679d42d643ed848ef9812c0606021429894afb81b30f4d6a0050b929d97b0d27;10009643;Flint;US;MI;48507;2;Domestic;4;Central;4103 Holiday Drive;Nao Informado;Nao Informado;Nao Informado
+31ef9c09a4f3f27d9b4bccfdf1ca040d16ca7aa84fc2f6677f2b0bba2973bc3b;10025250;Ooltewah;US;TN;37363;2;Domestic;2;Southern;8503 Hilltop Drive;Nao Informado;Nao Informado;Nao Informado
+81ca396c914adc6651535cfc962bef3fc5cb44417390784e2a7866d941f0d83c;10027348;Tampa;US;FL;33619;2;Domestic;2;Southern;6501 Adamo Drive;Nao Informado;Nao Informado;Nao Informado
+831f808f143582c41e2617a1b10f67ec3bc8277a61a969ed9e5fba4913d5f678;10020515;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a16d9ee34b277e07f92de5143fd26eecdcd86fdd595728f2a331f3a51c7f1fcd;10021418;Wheatridge;US;CO;80033;2;Domestic;1;Western;10930 West 44th Avenue;Nao Informado;Nao Informado;Nao Informado
+a5c3724afe3db822135fd15048debf17ba4e67de2f27c6b811aa2ae069708e07;10027583;Morton;US;IL;61550-0474;2;Domestic;4;Central;Attention: Charlene Hoyer;500 North Morton Avenue;PO Box 474;Nao Informado
+4a2de92eb6e91f8c9e6cecff50cf566190ad6d8f341de218ae2011c047297464;10009657;Lewiston;US;ME;4240;2;Domestic;3;Northeast;12 Lexington Street;Nao Informado;Nao Informado;Nao Informado
+8dc0c54729effc69259e99a14f136bf4217467d142d9cb4bf138a6736464d260;10024930;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+cfc4cd893e278d54a1497650b271820b7098d70817d274145040d8aa6749d831;10025033;Billings;US;MT;59101;2;Domestic;1;Western;226 North 13th;Nao Informado;Nao Informado;Nao Informado
+c2cfb237edd907b19ae52c6a6bcaa3be8dc37e0629170d2bc677b9053c659410;10000460;Goodlettsville;US;TN;37072;2;Domestic;2;Southern;709 Rivergate Parkway;Nao Informado;Nao Informado;Nao Informado
+242baa741ffceab2ba36991a65156e94ac3cec44c3cd72f9258a73fe9645e85e;10021283;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+45948610df259baff0a74b2881569ff9d77fa8305adb18c3b387920f848ebc31;10004207;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+f6799035c6a31f8179d95541096eb11f0572f2b807e25d3d41d84ffd88275147;10002506;Salt Lake City;US;UT;84126;2;Domestic;1;Western;Attention: Doris Nielson;PO Box 26005;Nao Informado;Nao Informado
+34ceb71878a4d8ccebad7ec7c83fb5122ab45b5583d05ccfe88576d590946351;10016047;Nashville;US;TN;37206;2;Domestic;2;Southern;975 Main Street;Nao Informado;Nao Informado;Nao Informado
+81d4db77fba23ec80126eaa93c9b1c0f3dcca6a4df6150a8b8d018ff0aabfd58;10014238;2215 TC Voorhout;IR;Nao Informado;Nao Informado;1;International;5;International;S Gravendam Seweg 53;Nao Informado;Nao Informado;Nao Informado
+66f11e52783979475d0c410d64bca292a39141f1b21f3a5bba6406462dc8025c;10013871;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+ac33cc8f216c6d43f2c5a0bfd7960e624345f6688f3690a6ef1a97369c5f5def;10023212;Medford;US;OR;97501;2;Domestic;1;Western;c/o Tom's Bronco Parts;2294 Sage Road;Nao Informado;Nao Informado
+64180316cdfc2bfb16714877dc9a5ee995487cc5cf98b20d34d3b019953142ee;10024009;Tulsa;US;OK;74158-2510;2;Domestic;2;Southern;PO Box 582510;Nao Informado;Nao Informado;Nao Informado
+0f2234ddaf3c39b30d24f80b871509beb89a73a5201f257ea0f675030ca849cc;10023780;Asuncion;UK;Nao Informado;33126-1214;1;International;5;International;Av Eusebio Ayala 3321;Nao Informado;Nao Informado;Nao Informado
+5177023f7ff12faa47f7be03d5f88bdca724936cbc4e97f2fdd675ab00563139;10020227;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+bba45940b50ca4e6a99f3b52fa2379316745d3d856e184c799defc61f791944f;10018871;Livonia;US;MI;48151;2;Domestic;4;Central;Field Accounting Department;PO Box 2003;Nao Informado;Nao Informado
+053ee50fc38d31cba9c127c6b1bab954f779d27158a9584ce725fe4db85b1e41;10023524;Clemson;US;SC;29633;2;Domestic;2;Southern;PO Box 1006;Nao Informado;Nao Informado;Nao Informado
+35ceae490dbc879ed273ea2904ea5c86231d3a2b8665f19be35fa39607479237;10020184;Smyrna;US;TN;37167;2;Domestic;2;Southern;Corporation USA;Nissan Drive;Nao Informado;Nao Informado
+16dd2e41f12ab906476aea63ae6ed107e5f4c6eb4feda5222a4eb777afa5e94d;10025243;Longview;US;TX;75608;2;Domestic;2;Southern;PO Box 5308;Nao Informado;Nao Informado;Nao Informado
+483ad6d742c64d0023a4f7ae77e9f05f196d46a93fb27b9cd2dcea2c4903d74f;10018877;Beirut;AU;Nao Informado;Nao Informado;1;International;5;International;Dagher Plast Building 17;Baizoob Area;Nao Informado;Nao Informado
+8011318d3780ec8fdbbfa5aee3f54281e7793ae302e0a2aa11aae58f06191cd5;10025086;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c86702f04d216c9f9d3a098924d576b99387c97b6584276380ac3b74ab4bd81e;10025758;Oklahoma City;US;OK;73128;2;Domestic;2;Southern;4532 Enterprise Drive;Nao Informado;Nao Informado;Nao Informado
+ba31cb6828697e7927e3a0afa9bed5ab0dc8218c9614f9b090f6913506fc42f8;10010970;Irving;US;TX;75060;2;Domestic;2;Southern;1477 E Highway 356;Nao Informado;Nao Informado;Nao Informado
+5b265bbadc5c0b8799aadb224c9d5ac80401be9cef18bfa5a4c74b7416b602b5;10021204;Toronto;CA;ON;M2H 3B4;1;International;0;Canada;480 Gordon Baker Road;Nao Informado;Nao Informado;Nao Informado
+ec4a57467e596525310225a34a6ad772a3638f2d1448c3563f3b9702a9831584;10023757;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6d87e05cda0608239983f15c41a4ae4d9047af6b827f5e9b14144487d37d28e7;10015495;Kansas City;US;KS;66105;2;Domestic;4;Central;Attention:  Accounts Payable;686 South Adams;Nao Informado;Nao Informado
+b70137acd07678b6946146c312788b19dda67c89ec9309d91b709369d6c424b2;10009907;Elizabethtown;US;KY;42702-2143;2;Domestic;2;Southern;PO Box 2143;Nao Informado;Nao Informado;Nao Informado
+a34864c018f45273e839cacd8bc916284e6e66d104350ea172fceda015661186;10004602;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b3e7e7ab5eb3d136c5b7995edf36999f9098bc3577a766e003cd938d1086bfb2;10006916;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+22b910a37e9f2c805bc1eebdc3020b9d604e55cc772db038b1a537d366b8c195;10024260;Spokane;US;WA;99213-3056;2;Domestic;1;Western;PO Box 13056;Nao Informado;Nao Informado;Nao Informado
+71a86da40afddf489c3c6365a5389639058979280a52778cd87c3451f23a9abd;10022423;Cincinnati;US;OH;45241;2;Domestic;4;Central;12110 Best Place;Nao Informado;Nao Informado;Nao Informado
+c1a0fca792c1e6a4af758fdca6ec91a749d8a919546cc58eac8967956349a470;10010969;Elkhart;US;IN;46516;2;Domestic;4;Central;317 North Main Street;Nao Informado;Nao Informado;Nao Informado
+103d596f7988784c8dd649c7d122eb894827ee9dd21fdac3cc676e5a3aee0262;10007123;Little Rock;US;AR;72219;2;Domestic;2;Southern;PO Box 194255;Nao Informado;Nao Informado;Nao Informado
+1e53340c1676033e89f478aeae9931aa589da70aff776693c72da8869212dc06;10025495;Birmingham;US;AL;35210;2;Domestic;2;Southern;PO Box 100603;Nao Informado;Nao Informado;Nao Informado
+aeabfa8ebcbf8978a8bb130d8048c3657f1cdde1424de97133478189f017b958;10003554;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e354aff8f20716d25d8286de2141f3257a23b7a12f435609b35473b288d60251;10005043;San Jose;UK;Nao Informado;Nao Informado;1;International;5;International;Paseo Colon Calles 34-36;Nao Informado;Nao Informado;Nao Informado
+f178ba0a9a75be6cfa80d1f8e617c1653ce297a63815c8ff37a3f2877b61adcb;10000481;Chicago;US;IL;60680;2;Domestic;4;Central;Box 5516;Nao Informado;Nao Informado;Nao Informado
+578ae19147580322a8b18e9e579ea9f056d117e1f5f957053ff49523ae72e48b;10021139;Livonia;US;MI;48151;2;Domestic;4;Central;PO Box 3382;Attention  Accounts Payable;Nao Informado;Nao Informado
+1ff8d31d3d7ae4220126912e5b5a58e8ee03c7da8e6322537334d6b935401f77;10023221;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+abccd0ab3ce93df782c2ada1175bf4926ce7fef7fd8c5f745d089996d9ef32e2;10025814;Houston;US;TX;77081;2;Domestic;2;Southern;5300 Glenmont Drive;Nao Informado;Nao Informado;Nao Informado
+f29db6af2baea3597f93ca826715fafd06c4281dd219583d09201984dda78333;10020491;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4ef32308ec9ebd704596f9b2034e0273fd8c7ae7391af31b1089144042177f4d;10010865;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7b9a6fdc3b2d0e41fa0213fc80474d775a1d465402d302d4ae8556a16dc4f059;10012226;Troy;US;MI;48083;2;Domestic;4;Central;Worldwide Purchasing;1996 Technology Drive;Mail Code 483-619-114;Nao Informado
+42c4ff66cff9dad62c61a33dd5a5a2084ca316ca93fafd8cd819ef2198459446;10014533;Aurora;US;IL;60507-2060;2;Domestic;4;Central;Chicago PDC #22;Attention  Accounts Payable;PO Box 2060;Nao Informado
+94a9659b6d492c7d2817bc38e4ad54c077603110896a14b8fb11bd847a1b8e29;10006862;Pearl;US;MS;39209;2;Domestic;2;Southern;4410 Highway 80 East;Nao Informado;Nao Informado;Nao Informado
+ffc719fa7957705964fc813131964c19daf9d4a50c0a104bade7e9a99f702f87;10007258;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2467c3c3de6e3e9f687c27218c3f01a6a27051fbcaacd992a1cd25a794142e3d;10007183;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c6dc8d6fb4b4f07d566cb98bd29775f27c5a48d66c3ed9be15fe0a792458975e;10002709;Albany;US;OR;97321;2;Domestic;1;Western;PO Box 99;Nao Informado;Nao Informado;Nao Informado
+c5990a7c9338e5346799566bbaae5c7dba64dc1ab3ba5055095d4c956e681328;10020914;Calhoun;US;LA;71225-0547;2;Domestic;2;Southern;PO Box 547;Nao Informado;Nao Informado;Nao Informado
+a1c447bde17603bb3d63b4bf03fcfea7ef456d934a33dc7570c3fb512f97a708;10012422;Saginaw;US;AL;35137;2;Domestic;2;Southern;PO Box 510;Nao Informado;Nao Informado;Nao Informado
+91f3d4bd30fb8f37ae9deda7ec7e0387ed54c85bbfea1cb048749cc15cca0bc4;10013052;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+050fa42507480609de4d076a07085667f85610332cd25935f8929f0c1740b227;10025289;Fresno;US;CA;93725;2;Domestic;1;Western;3631 South Bagley Avenue;Nao Informado;Nao Informado;Nao Informado
+e87907fd45f48203035b84472ef3847c6aa12d9fe1c4b778dee38179f1ad43e5;10023003;Coldwater;US;MI;49036;2;Domestic;4;Central;400 Jay Street;Nao Informado;Nao Informado;Nao Informado
+1fb864ab743cf412f3ab24f9bd9f72ed561aceaa59d35866e73507173852331b;10024010;Mitchell;US;SD;57301-7064;2;Domestic;4;Central;Attention:  Accounts Payable;300 East Norway Avenue;Nao Informado;Nao Informado
+9469eddc8898acef541618feb5dc0ea937eed235ddff7343376df08374898158;10012128;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+57a93648892f6846dca161554886735d5eee0bbed4e1a4fc9d0e50608f371233;10002489;Villa Rica;US;GA;30180-0266;2;Domestic;2;Southern;PO Box 266;Nao Informado;Nao Informado;Nao Informado
+07c3f9d0f581e13a90474c2abed13d6993d143c51583af6c0c996f62c3a5d618;10007309;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Limited Reg Number 28388;40 Devil's Tower Road;PO Box 176;Nao Informado
+0d760248faf7068b201a8208d90f7b4bcb69dfa275d54dc38f831a3f16f08870;10026038;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+fa48d2b114a50fad8317003a327845ee20cd4246e266342f0e975ffaa57826b4;10011052;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+151dc3dc85f5f67fb5cd70dfabc61571d964bd8f4fd7ca74360eafc4f75edc5b;10024262;Oakland;US;CA;94621;2;Domestic;1;Western;124 Hegenberger Loop;Nao Informado;Nao Informado;Nao Informado
+5c45110ce37e51ab4346ea239ad600b017ccf1b79cad5cd86bc8a455c26fac91;10009660;Augusta;US;GA;30917-4658;2;Domestic;2;Southern;PO box 204658;Nao Informado;Nao Informado;Nao Informado
+175365917cbfbdd912c8444b2d22c242f452c3baf0265483e8d12b6025d49c2d;10006093;Evansville;US;IN;47716-5364;2;Domestic;4;Central;PO Box 5364;Nao Informado;Nao Informado;Nao Informado
+cc21481153ba41446032430f2edb381ae42d1f0665161a19f4db34975de5b886;10022746;A 5102 Anthering;UK;Nao Informado;Nao Informado;1;International;5;International;Landstrasse 18;Nao Informado;Nao Informado;Nao Informado
+f6bfe33780124c5632b8ddb0c22a720df880737f47a68bd067d7497838ab8d29;10013127;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+481853ae8baf97772dd6a14d2a0ef1f865b7b91c5f847b324f72410012c05f01;10021242;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0013815a1507086e056fc9c1f8472a7e95f3aaadff0bab650585050f9aa79757;10012328;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2970e5ef69f471dde6063932cd56cca202dfbe05b7183e5bec784407401ebe63;10023785;Columbus;US;OH;43216;2;Domestic;4;Central;Defense Const. Supply Center;PO Box 16791;Nao Informado;Nao Informado
+03d767ccb114bbeb7e1620229905385f14ef6b33ea296080f178f8cbb4ad8891;10027053;Raleigh;US;IL;62977-0068;2;Domestic;4;Central;PO Box 68;Nao Informado;Nao Informado;Nao Informado
+d1c8255f4bb41d4a6ee85bf1e4485f475f45b59139ec01c5ca1ef34a150bcfaf;10017553;Ottawa;US;KS;66067-3805;2;Domestic;4;Central;PO Box 660;Nao Informado;Nao Informado;Nao Informado
+18c038e2892ac4fd6e015f194bb7136edc212787c8910d4301c1ffcab425c307;10010906;Frederick;US;MD;21704;2;Domestic;3;Northeast;5702 Industry Lane Unit B1 & 2;Nao Informado;Nao Informado;Nao Informado
+e63c0e376a828a0d06e0c024fc6e933d3989ba6093e71a948cb463aafb90213b;10021239;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+46cc8ed6164f17535721ba47dbe115580e026e40db51d0772c8030c1f2ee5b1f;10015267;Sollinge Molle;UK;Nao Informado;Nao Informado;1;International;5;International;5750 Ringe;Nao Informado;Nao Informado;Nao Informado
+c271f1af760348eb64750d9087446daec56f2001580a731b71f8760c7b711f89;10007253;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+bd60bb62e090dd4e6b22879425b86523a24cd701ae78d3f888af2fb3dfe2d4b5;10011842;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+528df2fca18a797bbc2f73fed44882065eac734e7c76be51f6489785a01d023f;10023489;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+12cf5576457525b6a13a6aa7f4c7ecc3fba9689883a7ef2d6084841f4580d78e;10011734;Atlanta;US;GA;30325-0858;2;Domestic;2;Southern;PO Box 19858 Station N;Nao Informado;Nao Informado;Nao Informado
+856da7782967cfdd50f99bd0f7779396152bbdbbd2e5e3005ffe44704dada9af;10002139;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+026a3cfb9182815cd24bbf2439a5755f3d5c3d20b5688e76c1e16890c3b144ff;10021996;Milton;US;PA;17847;2;Domestic;3;Northeast;8 N Industrial Park Road;Nao Informado;Nao Informado;Nao Informado
+2689962e16974c09b218008732447d99c273144ef7d21732baaed195d22c9333;10023022;Surrey;CA;BC;V4N 3P8;1;International;0;Canada;18412 96 Avenue;Nao Informado;Nao Informado;Nao Informado
+624019721dbc7a0576c2bdd4f1b72f782615424143bb1b47073aa3461c445982;10024704;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+579578390447403c6807d52b8aa875cb4ac1c63e469a331c1119fffc4920976a;10009654;Brownsville;US;TX;78521;2;Domestic;2;Southern;904 Billy Mitchell Boulevard;Nao Informado;Nao Informado;Nao Informado
+baf08299372a73b06e4a61c64e4b12ce8fd7c11bb2db4e631e0c1116a6a0cd86;10025299;Montreal;CA;QU;H3S 2T4;1;International;0;Canada;6260 - Place Northcrest Suite 305;Nao Informado;Nao Informado;Nao Informado
+5d0034ddf24f2a2f4286605f859306d267745d8fe9f5f73913697969bd579cb6;10021415;Indianopolis;US;IN;46222;2;Domestic;4;Central;100 Gasoline Alley  Suite A;Nao Informado;Nao Informado;Nao Informado
+76e2c4b3173aaef3c431f88f2259dd90a1093856e39731bd7058cbbf7c2a11ca;10000455;Huntington Beach;US;CA;92647;2;Domestic;1;Western;7392 Count Circle;Nao Informado;Nao Informado;Nao Informado
+8d20c5f89504b1ffcbfaba47ef2a8fe43cfab596bf5e3e9006e97cdf25210d3c;10022490;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+e25047614724d5d332b1f6969da076c780f6d87db8e8187f60ae741bdf211c9a;10015275;Marshfield;US;WI;54449;2;Domestic;4;Central;1601 East 29th Street;Nao Informado;Nao Informado;Nao Informado
+e4c084c87d7467b3eada279eda9d23a136c269b2763a454123dd764b948e431b;10007564;Cleveland;US;TX;77327;2;Domestic;2;Southern;1287 US Highway 59 North;Nao Informado;Nao Informado;Nao Informado
+f4048d2931e42c975d4058531fc78e9afd62ffa92e928633feedb3a681902f78;10024016;Kanagawa;AU;Nao Informado;249-0008;1;International;5;International;1-16-33 Kotsubo Zushi;Nao Informado;Nao Informado;Nao Informado
+0d0559f1220d78a694e457c8720e36d403d414a0dd9456a005680a6a60dcb0aa;10002161;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+f6974b4704b4628df47ee37c62265f4dc4347be2b16f4a34d9ed69d8e2ed55cc;10025022;West Midlands;UK;Nao Informado;DY9 8HS;1;International;5;International;Bromley St Lye Stourbridge;Nao Informado;Nao Informado;Nao Informado
+b49b2b81beba1b209d666d21103e0d38a28515f91466798773ab2584be6a9436;10025919;Compton;US;CA;90220;2;Domestic;1;Western;801 West Artesia Boulevard;Nao Informado;Nao Informado;Nao Informado
+f39d90e54c615665cf4f5879758c0bc302766621192fce04da4d5a6ce11770c5;10017036;Eagan;US;MN;55121;2;Domestic;4;Central;580 Yankee Doodle Rd Ste 1200;Nao Informado;Nao Informado;Nao Informado
+a64ece83b6272aa01356d84f8a192630fc3a56c2032c4a1ac1300a7ea4bd080c;10004255;Seoul;AU;Nao Informado;135-260;1;International;5;International;3F Shinwoo Building;195-12 Poi-Dong Kangnam-KU;Nao Informado;Nao Informado
+e70090c3704ae3dda5a4fc2212638ea794bec9d78db93e1017e175e8bb7dbe03;10009863;Beijing 100088;UK;Nao Informado;Nao Informado;1;International;5;International;PO Box 065;Nao Informado;Nao Informado;Nao Informado
+e77da594d9d32097a2c2caca310a7dd2d0daa88884c7a964015537eb6d52f1d5;10009647;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+bab1eeef930fc3468aa3a036f1b2af79e527de1a593728239a7695e9ce41e92c;10027356;Grand Rapids;US;MN;55744;2;Domestic;4;Central;910 North East 4th Street;Nao Informado;Nao Informado;Nao Informado
+5602db4e6d8c94990bd3540ecacef075fea5e55e599b981ba3f39ede118ab19d;10023760;North Hampton;US;NH;3862;2;Domestic;3;Northeast;60 Lafayette Road;Nao Informado;Nao Informado;Nao Informado
+6186518fafdea6b6f8e921808124200a84bd6d9584f61e3c261c682f84b5c7ef;10009650;La Paz;UK;Nao Informado;Nao Informado;1;International;5;International;Plaza Venezuela 1413-1425;Nao Informado;Nao Informado;Nao Informado
+454668f5b46b07cf134ef16ba487f421cbaa8a8f2340a3eeb0541195184ba360;10006919;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+33a18009198dc69e9328b4702494ed1c579e3015a2e075f0969e4e7b5e32269c;10021107;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+1042b610cbe498b69349742feabac3ca3cfd21045974d696afada9cdc8810ca9;10015325;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b52259e15c65cd686080902f963690a92d09932e35c0ffa7788b430f5fa4b8a6;10026861;Salt Lake City;US;UT;84115;2;Domestic;1;Western;2280 South State Street;Nao Informado;Nao Informado;Nao Informado
+3cbe6147229aa616538ad227751dbce8455e625e25de8c3eba054db5a4077820;10026868;Valencia;UK;Nao Informado;Nao Informado;1;International;5;International;Aut Reg Del Centro Valencia;A Pto Cabello Dist Naguanagua;Centro Comercial;IL Portico
+9a91eaeebea0650d351c2be3aa5ed4be73ca4ccd459af452684813261358da56;10014495;Clackamas;US;OR;97015;2;Domestic;1;Western;12900 SE Capps Road;Nao Informado;Nao Informado;Nao Informado
+9a4f73c9e0b7f12b4007307397676c1ccf57f7e717012704dd0e411552cd75f9;10023778;Hillsboro;US;OR;97123;2;Domestic;1;Western;PO Box 70;Nao Informado;Nao Informado;Nao Informado
+c5806cfd3db98a3927bfe9ba4f8bc156d53ed195f21cb391d4bb2b2e5d4ec61a;10021380;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+3c44d51b697627249fc73181a1dd30876a46f29d803a55b19d5f7d13822287ce;10025353;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+585fbb5da7c57a8fb62278944b4dde43f767184c448214e86e66ab694a94c4c0;10000601;Creedmoor;US;NC;27522;2;Domestic;2;Southern;1550 Aereli Avenue;Nao Informado;Nao Informado;Nao Informado
+031b29833fdba57144ac2f517bca2dfcdbce9083e51272b04f0176dedb1b2fb6;10023516;Miami;US;FL;33147;2;Domestic;2;Southern;2900 Northwest 73rd Street;Nao Informado;Nao Informado;Nao Informado
+eb60484d4e7a88259bfefcaead695a4512289adcde2cb421b8b180421a0f8809;10022755;Johannesburg;AU;Nao Informado;Nao Informado;1;International;5;International;PO Box 86222;City Deep 2049;Nao Informado;Nao Informado
+3be96bdadefe5c2d2276306b248bd9db8aa202d1c25b48f2578706e34ce9fc6e;10025037;San Marcos;US;CA;92069;2;Domestic;1;Western;725 North Twin Oaks Valley Road;Nao Informado;Nao Informado;Nao Informado
+c8292f6a6e261320888eb6f4c219c91390e32654a49dac3a984c5598c126b743;10022470;Ormond Beach;US;FL;32176;2;Domestic;2;Southern;Attention: Linda;100 Business Center Drive;Nao Informado;Nao Informado
+dbbcd01c70f8db3cf2128b4ed8b507c1bb90f0ea570341d66756d958f9680284;10020181;D 95326 Kulmbach;UK;Nao Informado;Nao Informado;1;International;5;International;Am Schwimmbad 8;Postfach 2008;Nao Informado;Nao Informado
+598dfbf114e828679d5187954f4ab28ffeb95c7aaf03d3fea20aee82e9a37b88;10027370;Madrid;UK;Nao Informado;28006;1;International;5;International;General Pardinas 112 Bis;Nao Informado;Nao Informado;Nao Informado
+471031a954ba9692dcc80da0f31a4012111c46ee7bd8b11ecffb442ad3c21876;10020982;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+3edb9f67485629f19d3c3f866ba2723721792436bdba01399a97833bf3f626e1;10016784;Pocahontas;US;IA;50574;2;Domestic;4;Central;PO Box 129;Nao Informado;Nao Informado;Nao Informado
+c45cbeae41038333fe8e1e30b3e910fda05b755e5d6441d33483a6598d3095b4;10022962;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+da57b31b0ed4ca49b7b8a45ea514beadc9dd7cb4b3e5d9cabae453e31b00d76c;10012305;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8610b4544d4b4ce498b4aa5bc6c6cabbf85987961200d052023a6f14660b1cec;10018363;Panama Rep De Panama;IR;Nao Informado;Nao Informado;1;International;5;International;EDIF N 4141;Apdo Postal 642 Zona 9-A;Nao Informado;Nao Informado
+d59c027cb58fc0f3f83438019dbc996d3ffb57a41575ca67c1a731eba02b0fbc;10018628;Tigard;US;OR;97223;2;Domestic;1;Western;12805 SW 77th Place;Nao Informado;Nao Informado;Nao Informado
+df8873d2ce6f2b784cb57c9d8d69717ec76bea4a7fd36c72a54412f16570a2b9;10009156;Attica;US;IN;47918;2;Domestic;4;Central;DBA Badlands Off Road Park;3968 North Xavier Road;Nao Informado;Nao Informado
+94decea2f96a5f5062040196054ce046ab6d45ac33b5ccc15bb4858617bcd8ab;10006805;Miami;US;FL;33126;2;Domestic;2;Southern;1801 NW 82nd Ave;Nao Informado;Nao Informado;Nao Informado
+21cf39dc9ad0408b612185fed074116810e3574369baf9f6e9a577b99134c6a8;10014540;1980 Santiago;UK;Nao Informado;Nao Informado;1;International;5;International;Avda Bdo O'Higgins;Nao Informado;Nao Informado;Nao Informado
+144f66f3cf5a0f4a84683b09737381887577c9bf1e2177ff5c2c547426cd4fd8;10025025;Auburn;US;WA;98001;2;Domestic;1;Western;2402 West Valley Highway North;Nao Informado;Nao Informado;Nao Informado
+39e42ed306a1d028879bf0af0b28d511a426dcd84194664c7de4294c05bb8b8e;10026078;Bedford;US;OH;44146;2;Domestic;4;Central;PO Box 461090;Nao Informado;Nao Informado;Nao Informado
+81206ad9d3edad189a90c7345770c00e4c9e6d3f62c972741c3b4f7549f33d8a;10022750;Watervliet;US;MI;49098;2;Domestic;4;Central;8300 Lane Drive;Nao Informado;Nao Informado;Nao Informado
+880a6b99e1e7e4b3cec325aef7eae7a846e07ae9cd486cd6d5f9fd2de46eb5db;10009653;Mississauga;CA;ON;L4V 1B3;1;International;0;Canada;3355 American Drive;Nao Informado;Nao Informado;Nao Informado
+ec3c7a45ec125a371879dae5c4161ea9e81615a599f965900e22e34becf47161;10026438;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+48874507c2a12ca24f642da3b3dbb2296be491a182338e693103d48f571a9dae;10016549;Jacksonville;US;FL;32236;2;Domestic;2;Southern;PO Box 6307;Nao Informado;Nao Informado;Nao Informado
+588e04ea52e47b73a9ec198fd5d3b2b3a643209a6903169aa4eed647818810e3;10025305;Colorado Springs;US;CO;80907;2;Domestic;1;Western;4260 North Nevada Avenue;Nao Informado;Nao Informado;Nao Informado
+71db761119c8cf1abbed127fd4adf878fac650544a758b38daa48b31b29bc670;10011546;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+86713aaf4cecb750827f5c09514ba3f07dc9b263cb17893a02be79d51c184aac;10024743;Enumclaw;US;WA;98022;2;Domestic;1;Western;907 Cole Street;Nao Informado;Nao Informado;Nao Informado
+baf56fcabb5ce532b841e3d0ac0bc88dfb7e53648b4de8ab3db0ba7580936815;10025778;Pomona;US;CA;91766;2;Domestic;1;Western;1143 W 2nd Street;Nao Informado;Nao Informado;Nao Informado
+2ae19bba5770c913df4321aa63ed0ad9e8a6461c728734b029ad9eb84627d63a;10018665;Wester Chester;US;PA;19380;2;Domestic;3;Northeast;1028 Saunders Lane;Nao Informado;Nao Informado;Nao Informado
+dd3f6141a3bad67e560957cc03a4506af55755a4b556b23db791dcd98beb79ff;10012161;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b99c568b40a652e6480c0eb3a1b1c0bef7d42ae39c35403e637f26e5b2214b1f;10021240;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+3a2abe44f53f171afa83c1c7fbfff171222cdfc2e62a6e9852f60fc65e38f15c;10007866;Sao Paulo;UK;Nao Informado;5052;1;International;5;International;Rua Sepetiba 464;Nao Informado;Nao Informado;Nao Informado
+f53ef80f742aaf1de7987624d1b6c3015ec3de49d431c02b3a59ee78c6aa28aa;10021494;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+9483dcaf7d4398af57fade3fc28ff3a58d316b815a1357d26ce066ef0a3f1087;10020907;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d816bceb1eeafc278ff27bf913dd39679800094a13fa5e0cd247e2125fe29e49;10011981;Missoula;US;MT;59806;2;Domestic;1;Western;PO Box 2640;Nao Informado;Nao Informado;Nao Informado
+a7a4726b4b1b4e99fd583d537cb285eb851922cf3b120265be0a6da248cd1ac7;10020909;Canton;US;OH;44711-8844;2;Domestic;4;Central;Attention: Accounts Payable Department;PO Box 8844;Nao Informado;Nao Informado
+5201ab1d8f9f00eed5ec94bea792998d6647a0e28f54999997b04bf3dccf11e5;10016303;Buffalo;US;NY;14206;2;Domestic;3;Northeast;60 Depot Street;Nao Informado;Nao Informado;Nao Informado
+cddc5c66f80266c1681d1fecd413336a9c13522d38e8eb070460ad132d26104c;10026365;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+642be8a23256d97541246a666f3186d6032460e34b94945f548659e0dd45088d;10009633;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7cf30839c8c264d26f072bdd4212c0574cfbd493bd7bda8dd966cc76070b8ca8;10020449;Santiago;UK;Nao Informado;Nao Informado;1;International;5;International;Attention: Rodrigo Yrarrazaval;Jose M Infante 2320 Nunoa;Nao Informado;Nao Informado
+3a2dd693b44afc6803f04a0c0b434b5de08ebf4fd967c0a02ac12498bd2a7089;10019388;Ft Collins;US;CO;80524;2;Domestic;1;Western;1101 N College Avenue;Nao Informado;Nao Informado;Nao Informado
+527f848075d279c5f03b58c01a2f12337a4d05ad9ae785cd04ff5911e6b31b58;10026606;Dearborn;US;MI;48121;2;Domestic;4;Central;Central Accounting Service;PO Box 6005;Nao Informado;Nao Informado
+b2010d6ca22ed78c18ab34983e8de1ddb21303e0e36887f37fb1d433496e6882;10025247;Pittsburgh;US;PA;15238;2;Domestic;3;Northeast;390 Fountain Street;Nao Informado;Nao Informado;Nao Informado
+90cdcef47f265e34d74fc31a5d1925a1c9db11d3fd0834f11e455bbd3e85274f;10009985;West Jordan;US;UT;84084;2;Domestic;1;Western;PO Drawer 40;Nao Informado;Nao Informado;Nao Informado
+61b20227ca6729f8524ff8ee5baebd17744f2a1e1597c8ff0eea953015934e5d;10021222;Buffdale;US;UT;84065;2;Domestic;1;Western;14296 South Pony Express Road;Nao Informado;Nao Informado;Nao Informado
+07c2a7aa7da8d2bf4e1e3bdb75ce974b39eaa0f4aced502977857b18245371dd;10025039;Mentor;US;OH;44060;2;Domestic;4;Central;9049 Tyler Blvd.;Nao Informado;Nao Informado;Nao Informado
+907909c4748c4ca4816abc5c687c68d670f0f3d866a830c1119ffc7e5f080993;10000462;Hazelwood;US;MO;63042;2;Domestic;4;Central;6311 North Lindbergh Boulevard;Nao Informado;Nao Informado;Nao Informado
+a3142a01e8bb82e9dba20cbbf5ceb19f9089327bace488d48559c56374fd6ea6;10015253;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a1a68a068739583ebef77b31f1577aa25c88a6c6ff9e43ed6b58fc4b6d447fa8;10021231;Middlebury;US;IN;46540;2;Domestic;4;Central;PO Box 460;Nao Informado;Nao Informado;Nao Informado
+f594c326d8f0b20815a93a127df8e04e5e08f7a9c616560737c2560e1c8c7852;10024246;East Providence;US;RI;2914;2;Domestic;3;Northeast;580 Waterman Avenue;Nao Informado;Nao Informado;Nao Informado
+6e5dde173b11e18ef6ce9617adbaa7d54095663cdf637e1691bf7b9b8c53ec40;10022167;Georgetown;AU;Nao Informado;Nao Informado;1;International;5;International;PO Box 10361;Nao Informado;Nao Informado;Nao Informado
+3bf06f3513dde114209ec0027161a35c31fc3a41abea107e659afa12d101bc4e;10009356;Cape Girardeau;US;MO;63702;2;Domestic;4;Central;Global Motorsport Parts Inc;PO Box 1179;Nao Informado;Nao Informado
+6470ae3b2398b74a249968643f74ad17fd5a952b8cf6eaf6d40283b1daa6feb7;10011623;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+cdb320a5955d782b6cd109ec87952392d38e9c30e05ea54c92fe4a399800687b;10021006;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e1cbcd9bc1ce1231ea095a13704feb0429540dcd928dbc32e1ff47c91f4cbfcd;10000496;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6f1e6f66dd57698bd6d8355217a70b1a7ae7722d8000757aadb8d12e9ff10665;10018644;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+be637ae144ace36d48bb44a48b163be3a4239d40a1e5224cf5a2864bea2621bb;10009669;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+332b084bfd3492d82dd6a0b8ce188761aaff2cbc3eebf1145ca56943391bfc92;10014546;Phoenix;US;AZ;85034;2;Domestic;1;Western;Division of Western Truck Sales Inc;3530 East Washington Street;Nao Informado;Nao Informado
+9120b9391e6014587ef0968f6c7efb16426d35d4066b33b6bd581fdc4e9839e2;10024255;Pontiac;US;MI;48340-2956;2;Domestic;4;Central;Division Of Pontiac Michigan;17575 PP-CPDC;1251 Joslyn Road Dock 4;Nao Informado
+71a3e3fb281238e0315c5d7a17c83a4be7f7fc582667eca32c13ca08a740b8ce;10027340;Salem;US;MA;1970;2;Domestic;3;Northeast;63 Bridge Street;Nao Informado;Nao Informado;Nao Informado
+029d377ed27a62275bb006f664ac0c179fce6195ead57241fab9ae2370165b18;10001103;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2bc1dd1f368fe742c6824b50fce3739856e5605e3aa0ef2c47f5a96c1d00bb7b;10021184;Aurora;US;OR;97002;2;Domestic;1;Western;14312 Stenbock Way NE #F;Nao Informado;Nao Informado;Nao Informado
+a8f39584d8837cbad1dadcfa8e0ac18761716f98bbb1d16c95a9e675732d6e59;10021459;Olive Branch;US;MS;38654-3703;2;Domestic;2;Southern;Memphis PDC #19;Attention   Accounts Payable;PO Box 786;Nao Informado
+95bf4de3e836677327bfd20b42ec01b58fc43914cff862b4ed7acd3612c1d9e4;10025575;Beamsville;CA;ON;L0R 1B0;1;International;0;Canada;PO Box 640;Nao Informado;Nao Informado;Nao Informado
+d2f90bb351c50f936d32a05485a8928516459ac2f72d76929b4462bc2363b959;10002150;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+760fdd75ece0eaf1c19829aa6276ae0c9fb66ee2d971397fdee44b147c651cac;10004516;Lighthorne Warwick;UK;Nao Informado;CV35 ORG;1;International;5;International;Vehicle Operations;Building 540 53G/23/1;Banbury Road;Nao Informado
+00c44df2658cfa7efc7cedfe594d8db2bfb01b25e5f6ff096eb0695b503512ec;10018352;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c862805557ae7e966013d4cb36c4cbb4dd99211d2e661266deaa17535c14a8c5;10022434;Placentia;US;CA;92670;2;Domestic;1;Western;PO Box 958;Nao Informado;Nao Informado;Nao Informado
+b08a8a5e420878fa1c9b63a0b80067034b49bd3879cbcf6705b0bf6afc027b0f;10025284;Hayward;US;CA;94541;2;Domestic;1;Western;19745 Meekland Avenue;Nao Informado;Nao Informado;Nao Informado
+dfb09af143c0ab8a016b2e2e864665822d70093b1a5ebb5c504615c498549a7e;10015793;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+3ccaf1b38f4048072f0b65c7d402a596e78e1ded5864e95ef2524939dbab13d1;10027575;Dallas;US;TX;75238;2;Domestic;2;Southern;10400 Plano Road;Nao Informado;Nao Informado;Nao Informado
+7bfe418846e2c3e9e43f85dfe5e702a1a52150e1780b72a1459c43a1c9bcbab1;10014804;Shreveport;US;LA;71130;2;Domestic;2;Southern;Attention: Ann Borden;PO Box 31435;Nao Informado;Nao Informado
+2bc2d8c16b1941e20d413f45715de5795711b8b4036449cd09f6972191363ab3;10021422;Brea;US;CA;92621;2;Domestic;1;Western;3251 East Imperial Highway;Distributor #1111190;Nao Informado;Nao Informado
+e97adc5c6c8e051c0dc83356fc5d54fed5c7bc8e1aec47ba16a69af6e6211396;10024248;Portland;US;OR;97217;2;Domestic;1;Western;9440 North Whitaker Road;Nao Informado;Nao Informado;Nao Informado
+a31402e411e4947c26cd6d3d0d7a6bfb35ba737f9eb8d45acd533dd4442c2960;10022444;Livonia;US;MI;48150;2;Domestic;4;Central;Detroit Technical Center;37002 Industrial Road;Nao Informado;Nao Informado
+9670500b99af8c18a37a555424838a5faea79cb2bcdfac55048e1823933380c6;10025062;Bedford Hills;US;NY;10507;2;Domestic;3;Northeast;731 North Beford Road;Nao Informado;Nao Informado;Nao Informado
+9838d25aea00e14073255b317e6359db6374b6c3867d498786a52005529352f7;10011521;Okolona;US;MS;38860;2;Domestic;2;Southern;32722 Highway 45;Nao Informado;Nao Informado;Nao Informado
+f81775698ae79af453bddab1aafcf8873bc9c4fba2416852d694d627aa905ca6;10020388;Glen Burnie;US;MD;21061;2;Domestic;3;Northeast;7216 Ritchie Highway;Nao Informado;Nao Informado;Nao Informado
+88dd7ec85c30498358c527fb09e2ff925ebc1cba948ca32cc9553e38672e7175;10017852;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+25fe4754cea6b2594f42e44b104fdee9f2e3bdea1a176d9635cca77aaf20ea8f;10023495;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d9308ec79984048cd5f87214d0dba3fd2bcd959971c912f73539def33360898f;10021977;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+9e5aae35d2f9c7e2f7e7924110cd30b399d1bdca4b8295fa19d4b1f2e2196908;10022252;Crestwood;US;IL;60445-2205;2;Domestic;4;Central;13907 S Kostner Avenue;Nao Informado;Nao Informado;Nao Informado
+8166f72830c1f74d875dc14003eb124fdd46b33c8a2a7253f2d2faf72807e52e;10025023;Saskatoon;CA;SK;S7K 3S4;1;International;0;Canada;815 Circle Drive East;Nao Informado;Nao Informado;Nao Informado
+625b8782f6e232988c1e8bbf6113c686722005d3d3378dbf37f08c2e0a016d2f;10014471;Calgary;CA;AB;T2E 6Z2;1;International;0;Canada;2916-21st Street Northeast;Nao Informado;Nao Informado;Nao Informado
+a47cdbe7f76639106d7db35cbb47a216eed02f6c5fd3c994923b280fae3bfa17;10013080;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+5556b9d3da87cfb9f1069ba555f00eb142bc7e0850e0aed9435236f0756abe06;10020927;Sidney;US;NE;69160;2;Domestic;4;Central;One Cabela Drive;Attention: Accounts Payable;Nao Informado;Nao Informado
+39c0a1ec989ad427fe4e318b2e9ec5429ae7fb0dc73a22c00f4b9a30ab5dbe3c;10008134;Petersburg;US;VA;23803;2;Domestic;3;Northeast;23308 Airpark Drive;Nao Informado;Nao Informado;Nao Informado
+b3d575201f2a9c3a6a28e7ba2a97c31b83f7482cccf27ac7e518b1d288dccf49;10013011;112 Reyjavik;AU;Nao Informado;Nao Informado;1;International;5;International;Vagnhofda 23;Nao Informado;Nao Informado;Nao Informado
+a0f44db7d093cd7b37a45b1a320944b8f4b5eabebccca05e3c5ddf41744afc64;10019665;Hammond;US;IN;46323;2;Domestic;4;Central;7940 New Jersey Avenue;Nao Informado;Nao Informado;Nao Informado
+3ff972f032131cda0ef6dfb7d06b30e9057cb04ab353f290dc65b4113f33b695;10006848;Fredericksburg;US;VA;22405;2;Domestic;3;Northeast;1101A Potomac Avenue;Nao Informado;Nao Informado;Nao Informado
+2069849ecbe6848d131d35d14a81cdcf6a06132766bfd364a58b47ca4d68c843;10025791;Prineville;US;OR;97754;2;Domestic;1;Western;PO Box 667;Nao Informado;Nao Informado;Nao Informado
+675d12015e1b7f7c2754d812f3599d39044ccde1b798041d36d500c02c25bec0;10013472;Indianapolis;US;IN;46227;2;Domestic;4;Central;3343 Shelby Street;Nao Informado;Nao Informado;Nao Informado
+bbbb7e2db306869eca2189b0c637e8c99d9cb6e9b99f1bf662bd68094bfeb417;10021936;Louisville;US;KY;40258;2;Domestic;2;Southern;7779 Dixie Highway;Nao Informado;Nao Informado;Nao Informado
+58fe0b6be78623238c6f31bc82dbf84f915413fd309ba9f6ec072396005d0f52;10016113;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b7bcdf9a50bf77f88c7fa96001164475265edae5ccb9ac0ff98bbfb0fd5b1c89;10007120;Rexburg;US;ID;83440;2;Domestic;1;Western;DBA Pronto Jobbers Warehouse;PO Box 409;Nao Informado;Nao Informado
+9597cfabc2c023755914da33f8a1fb3642665835a9f42c8dd17bc594c176ba0c;10016780;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+fef186ea4768733adc5429aa50fc668266ec032d4d5cc8b29e69090938d432cb;10025737;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a5f24af71337512a5524ad15d03f2a29f8b6ca2f068bb5e184fec97d2b0106c3;10011732;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+295a95dd745c31af9d9453a1147727cfc063ab0077409affe58481fa93a799f8;10016807;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+cddaeee4a50e3e6b9deaec0fa992c59110d79d6d0ddf06baa19a90dc7e482490;10025304;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e35c87d8a3ab23d8dd85095212106f27b16ecedf2e4977356320ef8a4dcc4065;10024725;Jasper;US;TX;75951;2;Domestic;2;Southern;PO Box 174;Nao Informado;Nao Informado;Nao Informado
+b3776c8f8c2cf509860e8831fed08a2c30702d17aca0dfa9fa93decd2b5f881d;10013572;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4aa1b7f1ebdb289f83c79535a344c6722d777b12a1e5daf3087aaeb80513a6ad;10026081;Bremen;UK;Nao Informado;D-28390;1;International;5;International;Weser Ems Strasse 2-4;Nao Informado;Nao Informado;Nao Informado
+416a2738dc0ca020e2264c531b5a31c334a6c6a23236af7a3c75b57513cd2448;10011600;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+3bccc76d8e878a52e8bbde0bcc3f8c7a173b9d759eae09acc41fb950524a71b7;10026055;Eau Claire;US;WI;54701;2;Domestic;4;Central;5100 Highway 93 South;Nao Informado;Nao Informado;Nao Informado
+6fb9f3f5a8c08c21ef62a98c3977669c275ec3495cf6642344b6f2ce4205a79b;10023471;Odessa;US;TX;79764;2;Domestic;2;Southern;915 West 42nd;Nao Informado;Nao Informado;Nao Informado
+c9b5376e2da0f019c45a9cee228fba821a05d70f5a844ecd963db35112ee3307;10022725;Norcross;US;GA;30093;2;Domestic;2;Southern;1723 Webb Drive;Nao Informado;Nao Informado;Nao Informado
+c736cf2b7a7df2b5a554abedf51db783426f99857aebb9b6331d1dc119a96558;10023509;Tampa;US;FL;33604;2;Domestic;2;Southern;513 West Waters Avenue;Nao Informado;Nao Informado;Nao Informado
+589fcc1ea91c639588aacfdcf1a207cc193130adb6ac43ff361e1912414d7fe6;10007577;Stewartsville;US;NJ;8886;2;Domestic;3;Northeast;2621 State Route 57;Nao Informado;Nao Informado;Nao Informado
+07048ff1a7f71373f871a5842d57ad24a5200589b85a8bd8f458fe2bc3a23e68;10002137;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+75517ba3216f30bc72807b6df1490d1e8f67cc3cfbf3b82976f43c8ccb5b32dd;10026294;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+11db6d489eb394b694c734c097a42f1fe5e54d77387a1398059b13e29b71c56a;10020390;Lansing;US;MI;48906;2;Domestic;4;Central;16241 South Us 27;Nao Informado;Nao Informado;Nao Informado
+aef3697712b7208bffa507d6930e78c357c74bfd17c4aaf3e8c0ee6bccbebdaf;10014803;Grand Rapids;US;MI;49508;2;Domestic;4;Central;3056 Eastern Avenue SE;Nao Informado;Nao Informado;Nao Informado
+16eb924cbc34e625a2e5b92bac81a68a6fe36089814d3ab40a9ce54180fee965;10008596;Springhill;US;LA;71075;2;Domestic;2;Southern;PO Box 578;Nao Informado;Nao Informado;Nao Informado
+43c01496c81e7a1c85e794c54645cc399a8521d815fd93b41f5a489048f5fc58;10026521;Quezon City;IR;Nao Informado;1114;1;International;5;International;97 Banawe Street;Nao Informado;Nao Informado;Nao Informado
+2ad74c57af321de09511cb62321c606ee8afdf3cb1a2410b91a142a099819460;10027381;Tumwater;US;WA;98512;2;Domestic;1;Western;2649 R W Johnson Boulevard;Nao Informado;Nao Informado;Nao Informado
+8779073085054b6e4d7a2e9be11af9a981f6b5153933752978fd36f54b1327ec;10020413;Okarche;US;OK;73762;2;Domestic;2;Southern;PO Box 447;Nao Informado;Nao Informado;Nao Informado
+2e662723867b90abbeed2d45540bdd4ac13e42c155dddbb5cc9537af77614f65;10022240;Mississauga;CA;ON;L4W 1T7;1;International;0;Canada;1665 Shawson Drive;Nao Informado;Nao Informado;Nao Informado
+fc18fc9b8581c28e844715e801d6cab439042b48da842f29f63f0a142f548f43;10006977;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+910989eb595f8771a4240510a9c28c1931d7b3dafb4b616da31b4f6791e0f895;10002746;Bensonville;US;IL;60106-1119;2;Domestic;4;Central;1200 North Ellis Street;Nao Informado;Nao Informado;Nao Informado
+f224d267e014bb120965c3315185cb7c8f6179e962acadb3e741eb4fd427f6ed;10026522;Fairmount;US;IN;46928;2;Domestic;4;Central;4353 W 1900 N-48;Nao Informado;Nao Informado;Nao Informado
+254080fe457b4c09ab09b0c3614d1f4f97d156fa8dd7279c3fde6459a940e606;10015789;Jeddah;AU;Nao Informado;21424;1;International;5;International;PO Box 14311;Nao Informado;Nao Informado;Nao Informado
+334db6a85ffd25d53d6f9b820bf8fa1736f9364a921861f891394999d5d7dffe;10002412;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c5bc04e86eb2eb20cb4cd0b233d4294b3bc29f7c6f3c8a72ff04d299ab231df0;10000473;Rancho Cordova;US;CA;95742;2;Domestic;1;Western;3290 Monier Circle #100;Nao Informado;Nao Informado;Nao Informado
+aad18ee87e5a61b211e1bd3f4a3c833991b06aed51f6a4a14a4b91f1cf88d209;10017576;New Orleans;US;LA;70181;2;Domestic;2;Southern;PO Box 10455;Nao Informado;Nao Informado;Nao Informado
+526e6b865e30b234097d4d02868805ea1f671f7db82b556ac0795b983f9e11fc;10022201;Carcas;UK;Nao Informado;Nao Informado;1;International;5;International;Av Blandin Chacao;Nao Informado;Nao Informado;Nao Informado
+714e9291a5af9e8f281c9934fa6f01425357c241717a474b2cb9a3e41d02a9af;10000480;Phoenix;US;AZ;85036-1502;2;Domestic;1;Western;Attention: Accounts Payable;PO Box 21502;Nao Informado;Nao Informado
+e22f0acd4e36b2cfdee06fe2f8a53b5584cb503326089cdcdbe7a5abbc43a390;10010886;Libby;US;MT;59923;2;Domestic;1;Western;522 Montana Avenue;Nao Informado;Nao Informado;Nao Informado
+d0d8bb6abaadd2c54f6f32b45f14eaac09391ff9f93536abd199f1446b0bb4ab;10020864;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c9729730fe94d8ed6c0fece7636926dc93c3f1b04dd0500ac5c9500bd33f5c02;10021270;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+3360e715508d7a6d96d2f4942d5a24dffb9e431ec6b5b8d32fb63d47c2492020;10025241;Hamamatsu City;AU;Nao Informado;432-8611;1;International;5;International;RU-3 Hamamatsu Nishi;PO Box 1;Nao Informado;Nao Informado
+52806daa38d54e21cf18ff38b13a9d50fd05e643ab1f542cdc3d554fad91707a;10009642;Joliet;US;IL;60432;2;Domestic;4;Central;812 Draper Avenue;Nao Informado;Nao Informado;Nao Informado
+e58b4ac3e006d0c29494521948dd412c9f1f87c201b9b0a558791835d0ceeeaa;10025571;Des Moines;US;IA;50316-0283;2;Domestic;4;Central;PO Box 3283;Nao Informado;Nao Informado;Nao Informado
+46777dec99bb35238a1bd3635d6ef54e6aac2eec16f5c53352e7a52d80aa202e;10025418;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+abaabd72fd577b0565416079ebdf93fd38726f4d8be7a6844f8954b7cf7c3b79;10000457;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+244c88d2c0d29c9d49a8326665c0aa84f92b0b3ad5be18695f6ba07073c2c6d6;10021203;Costa Mesa;US;CA;92626-5555;2;Domestic;1;Western;Los Angeles PDC #14;Attention   Accounts Payable;PO Box 5555;Nao Informado
+cbe943daa1e64e369ed9e9a496ca621f68870ad3163bad4aca1158cf445f4257;10012425;Oslo;US;MN;56744;2;Domestic;4;Central;RR1 Box 9;Nao Informado;Nao Informado;Nao Informado
+0aff5bd628d69e7ffb6f36127e7006119544dbb4bc5ec3f23e12c4f2ed4fa270;10009697;Orlando;US;FL;32808;2;Domestic;2;Southern;4455 Dardanelle Drive;Nao Informado;Nao Informado;Nao Informado
+74a6e06c1ef1f90e4cb35f099de8bdb5bf87afa8e042354ec416a44e1f574217;10022764;Ocala;US;FL;34475;2;Domestic;2;Southern;2610 NW 10th Street;Nao Informado;Nao Informado;Nao Informado
+4a5e79074eb948484408f53f3170cadebaa23baa280ae8d4af52bdce2668a291;10010832;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b7b8e7fc6c971ca4baaf49ca0763edb16ce899fa9509376d730c021d4eba9c5f;10023023;Thief River Falls;US;MN;56701;2;Domestic;4;Central;600 South Brooks Avenue;Nao Informado;Nao Informado;Nao Informado
+d56bdf8ed346fb07fc2adbd7236328ceb0b25c601cab33c787b290913fe170c0;10026006;Calgary;CA;AB;T2H 0N3;1;International;0;Canada;308 53 Avenue SE;Nao Informado;Nao Informado;Nao Informado
+91a2f37ebaa5552e956d68f6b35c8fdb051d65a7033c6232507679ec4e5b17e6;10019420;Ruwi;IR;Nao Informado;Nao Informado;1;International;5;International;PO Box 880 PC-112;Nao Informado;Nao Informado;Nao Informado
+52c81fba2421e7ab0b346f7ae0eb69244ef16205bbf010fedf890829253c3b39;10023964;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+abd24c088487e04e25af21af0bf0b527d38c172a41f10f7b36660a202adad780;10025249;Memphis;US;TN;38133;2;Domestic;2;Southern;7221 Highway 64;Nao Informado;Nao Informado;Nao Informado
+ec5393f41f2a4ed5a5b4a0d8722b95ca8e6703705fd1275533d06181daf95565;10013899;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d793f3760e2aec9a8717e9695538b383e8ca2a04e5ef6a6741a1e2122d66c137;10020256;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6706313147195b3f83d23281ea1c8759749f495fbb2d7388d20488b3f416b25b;10011093;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c56ee6788a2927bcd0b959b74b702756a41a477f39612f070eab11746a15a547;10020639;Tulsa;US;OK;74101-3445;2;Domestic;2;Southern;PO Box 3445;Nao Informado;Nao Informado;Nao Informado
+14bc07b7d3764bf07b64cc0600eaf9ba16836ede19491b1e604de2e9093660b6;10011018;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6d71f8ddde35f3e081ceffc21ac2155c53d0d38c29c011af348f02c8cc6531a6;10000488;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a953661f681d7ae5987a6cec992073bd4d3862f96c8cb005fc9369b14cfef9f5;10007117;Taipei;AU;Nao Informado;104;1;International;5;International;8F No.19 Chang Chun Road;Nao Informado;Nao Informado;Nao Informado
+7a61120164b43f3a962f3904a642ce448098ad76e31284c0313f207b6ec9eb06;10000466;North Highlands;US;CA;95660;2;Domestic;1;Western;3213 Orange Grove Avenue;Nao Informado;Nao Informado;Nao Informado
+deddb70a11082a7ce260e883904740b725d477e85e555cdf665a2077e6be64a5;10025552;Southfield;US;MI;48034;2;Domestic;4;Central;Order Processing Group;25140 Lahser Road Suite 282;Nao Informado;Nao Informado
+f19d99f097380fd460be08f73c0961c4ac5188e09a6f05971e3be42c82995d07;10025392;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+45f733bf196314f55dd6e6ca7dfc2b4e2c22b29ec8a1be1b9c25ffb2ee677a44;10007591;FIN 00710;UK;Nao Informado;710;1;International;5;International;Hiekkakiventie 7;Nao Informado;Nao Informado;Nao Informado
+0072beaf6f59166977c059ce5555322796abad064f2ed909eabc3028d191c426;10025238;San Diego;US;CA;92102;2;Domestic;1;Western;4567 Federal Boulevard;Nao Informado;Nao Informado;Nao Informado
+6ed86e53f7c29da4a31c9675bdbbafd096764c68d36c3823bdae04f42d599416;10023275;Portland;US;OR;97294;2;Domestic;1;Western;PO Box 30659;Nao Informado;Nao Informado;Nao Informado
+5b4d36c441f8b70165a8e46e703da5ce085733decd8e01c962f352343f95917c;10019913;Calgary;CA;AB;T2J 4L3;1;International;0;Canada;10901 Macleod Trail South;Nao Informado;Nao Informado;Nao Informado
+8fe61416d581a16e2cf00f68758a503e2314a2987c52f01618647299caf3adc6;10022687;Burnaby;CA;BC;V2X 3K6;1;International;0;Canada;5325 Still Creek Road;Nao Informado;Nao Informado;Nao Informado
+004c61ea5167a86575c8df4154b536ad8eb4215e085db6efdc9aea477e1c80de;10021736;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b163da5a06754ea46c33fe7ca18fd9f57d4728ad58989425d1a38955a047b38b;10018518;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6def8e2beb18e879348cdba8e7fd81dd2a96588a086bb9a4f827662f2afdb759;10019617;Spring;US;TX;77388;2;Domestic;2;Southern;2445 FM 2920;Nao Informado;Nao Informado;Nao Informado
+d523b634631102f61c315476456a0941b2964b03b129bc67dd9aac9adcea905c;10005099;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+374f5af10265a9cc7a8de153fce7f3638c762701d0f70d59d5b7366d8be55a3b;10020247;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+da01d7577eaa4b84b1e9812f1528c24cf8c706ee1ed4279388cf51cbedf70f57;10000458;Saginaw;US;MI;48606;2;Domestic;4;Central;PO Box 840;Nao Informado;Nao Informado;Nao Informado
+23122977ec4be5b5ba1763cf4f9c95db83271af463690e88f7b1a15dc8b77e46;10017638;Roanoke;US;VA;24001;2;Domestic;3;Northeast;Advance Auto Parts;Attn  Merchandise Accts. Payable;P.O. Box 2710;Nao Informado
+46776640cc98f9cf14e85f6940f549d79b89c88c560edcd71f96bcbc3245b05c;10026268;Surrey;CA;BC;V3S-2A7;1;International;0;Canada;Unit 403 - 17665 - 66A Avenue;Nao Informado;Nao Informado;Nao Informado
+f68059c97e79fb28a9a5d93521a5d12649d506ecb844939a74defc790613f24a;10022168;Cass City;US;MI;48726;2;Domestic;4;Central;PO Box 113;Nao Informado;Nao Informado;Nao Informado
+492b8357364bfc84f4b0b7731bc04cb98011fe623d4b993377d189330f2e2f3c;10003720;Hermitage;US;PA;16148;2;Domestic;3;Northeast;2755 Kirila Boulevard;Nao Informado;Nao Informado;Nao Informado
+fad9989a4c3f59e2edeb6a07ea2d55391c3a0d082ba2f613fc24464d7a2e052a;10005688;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2ea6f0dae24bc2363747c02880267645e1670f236134f114bc63fc26517a04d8;10011499;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+16ffb7d834fc762b5232d415aaa17e900cdeb48bce2fa3abdfc383761e70b313;10022456;Rancho Cordova;US;CA;95742-7316;2;Domestic;1;Western;3340 A Sunrise Boulevard;Nao Informado;Nao Informado;Nao Informado
+7033384200d6515e2980fbd4c33dfa51839037ebd6237a9942528bd850e0c8ba;10025296;Sun Prairie;US;WI;53590-2553;2;Domestic;4;Central;666  South Thompson Road;Nao Informado;Nao Informado;Nao Informado
+9c7eeed04f56d7f55e43a0a22e878f72497c780eb3aaa1c2fa658c473a7c4c7e;10003795;Baton Rouge;US;LA;70815;2;Domestic;2;Southern;PO Box 2484;Nao Informado;Nao Informado;Nao Informado
+213295f9057f0b2b1ba0c470d0bdb96255240dc95dc663008af5bd22e3476821;10019150;Jacksonville;US;FL;32241-3017;2;Domestic;2;Southern;Jacksonville PDC #21;Attention  Accounts Payable;PO Box 23017;Nao Informado
+ddf7f65ebcab15e16423a381f68cd2d029c2ac01e1f2612491e19ec52cfa2aed;10021472;Surrey;CA;BC;V3T 4W2;1;International;0;Canada;9475 192 Street;Nao Informado;Nao Informado;Nao Informado
+571b255c827a8de643db6d3b34b9174f9e38bd1d9f5fd735693ddc406f6f86aa;10007566;St Joseph;US;MO;64507-9799;2;Domestic;4;Central;2106 South Riverside Road;Nao Informado;Nao Informado;Nao Informado
+1b8ceabf70580ad151fbe05c51165ffcba47e054e8fda67124b7ab21367d0a0a;10002244;Statesville;US;NC;28625;2;Domestic;2;Southern;Spicer Clark - Hurth Off Highway Div;1293 Glenway Drive;Nao Informado;Nao Informado
+67fd595c38809cc0a265d474b9fc8be1880e5acdcf1b6625bf6706b8f4f16ca8;10007355;Amarillo;US;TX;79107;2;Domestic;2;Southern;3601 Amarillo Boulevard East;Nao Informado;Nao Informado;Nao Informado
+4d322faef6e9dce8474518d5e2eb79b846217709f30b51974c8510bd4a694fdf;10012885;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a884ae07bbbb7e228b0c11a7e8a4c535026895fcb3f127398b7a7fce6d4cd80c;10008381;Puyallup;US;WA;98373;2;Domestic;1;Western;10023 128th St. E #7;Nao Informado;Nao Informado;Nao Informado
+5a244c1cd324de913b8f2b175b0c711a97ae64d31ae4cbb6f866979c265a49f0;10025771;Waldorf;US;MD;20601;2;Domestic;3;Northeast;Southern Maryland 4 X 4 Inc;2588 Old Washington Road;Nao Informado;Nao Informado
+4cc57c070d74dae19cec7e0750e0214d4ddcb491bd50d2e3b1aa01511d0703ad;10016609;Winnepeg;CA;MB;R2X 2X9;1;International;0;Canada;Unicity Distribution Systems;1445 Church Avenue;Nao Informado;Nao Informado
+ea3bd5b4255bbcc74941110b8f4bc06d61557d18891934f05fc3d8401b5071b4;10024924;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2d06015c0f44122e357d44a8b6a9088fd371e3e7e2f5c049a86598cb4d4a8f77;10017828;Cypress;US;CA;90630;2;Domestic;1;Western;PO Box 762;Nao Informado;Nao Informado;Nao Informado
+7ffb26db253aa340d4522d51189ab07e2fd81599a080b9dedc7dce70683aafbe;10025251;Wooster;US;OH;44691;2;Domestic;4;Central;A Scott Fetzer Company;3201 West Old Lincoln Way;Nao Informado;Nao Informado
+0a93d5ff869ef04d2c0bae3b5af909ca2764d9e4bb51f97a5764b906e2390f8b;10025269;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+e1642d9c7881efe78cb2c77e76b957fd4785f9661cf7448563d4d863399a6062;10020868;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a4f6e5d6ad78264541f8f17b8c4c4633a6157f63b0c38e097f60b8ee8b8d9b54;10025285;Chattanooga;US;TN;37407;2;Domestic;2;Southern;2401 East 31st Street;PO Box 72638;Nao Informado;Nao Informado
+b061e34e8e35f6feef8454a57f499fc5cae41295c1c0e8792f2d5645c2cf528a;10002149;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a86f491c53d4a6bf054a538eea8153fb7fbf37d8a18f2cbc46b949dc594aec52;10018129;ZI 1 Ducos;IR;Nao Informado;Nao Informado;1;International;5;International;Rue Champion;Nao Informado;Nao Informado;Nao Informado
+87815282988a9ba333eff3c60d15e90eedb9681657c6bbcccfdae2d6487c1153;10027572;Elma;US;NY;14059;2;Domestic;3;Northeast;2210 Bowen Road;Nao Informado;Nao Informado;Nao Informado
+8bb1348270550ce877acc78b938dbd3737878b4b4c618aaa7ae3f08b199d2915;10013079;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4948b36673a0815b5f815def170d13693815b6e4ef9b21dd8f258075d9cb3555;10002144;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+778b110d921bb9b22f4a95238c5fbb9c53990ba739cfa80d981f49c327c8555d;10004245;Portland;US;OR;97208-3591;2;Domestic;1;Western;4747 N Channel Ave;Nao Informado;Nao Informado;Nao Informado
+0b7bff87d26390e99ae9c38a9ee80c34d329a15a2802d4464213095d036dfa81;10019400;Valparaiso;US;IN;46385;2;Domestic;4;Central;861 West US Highway 30;Nao Informado;Nao Informado;Nao Informado
+edd8e70fca50b71d7923a7721dd8e19c6cccf19f582b5ea85fff0b418132b5da;10025558;Little Rock;US;AR;72209;2;Domestic;2;Southern;6104 Young Road;Nao Informado;Nao Informado;Nao Informado
+22037afe44838bc8e18382c4231ce2f9574d965811b43efb8a639b264dfb9986;10020448;Regina;CA;SK;S4N 4X9;1;International;0;Canada;1155 Mackay Street;Nao Informado;Nao Informado;Nao Informado
+d95d38492a018e90631aa0bf9b61889ac335e6ccf8033831105902c62f5db098;10017290;Bogota;UK;Nao Informado;Nao Informado;1;International;5;International;Transversal 49 No. 102-00;Nao Informado;Nao Informado;Nao Informado
+5490d0a1349f3d07c243edde6b9130f13db50040198f24ab7d9cd1872d3a43d0;10021412;Clackamas;US;OR;97015-9733;2;Domestic;1;Western;13101 SE 84th ave;Suite B;Nao Informado;Nao Informado
+30aa339320e13f4af1a8b6b2e6b4dcbf30c2f13ad27637ad13e85f09d0425a38;10025549;Shady Grove;US;PA;17256-0021;2;Domestic;3;Northeast;PO Box 21;Nao Informado;Nao Informado;Nao Informado
+0b792d42b5f0ac0ffb8bab780a1326d20f7f3973c7ac13b61d3d59cd98082742;10010914;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+d12f47a771e39b4fcd6e6268da493020b5018093d02e8170d3cc70e08b532469;10000469;Montreal;CA;QU;H1N 2B3;1;International;0;Canada;Attention:  Accounts Payable;7025 Ontario Street East;Nao Informado;Nao Informado
+3384152e181d2777c49a4ff050a1af25c7467787fbef5bd59b241062748bc601;10019512;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8d7d2c6b0ec9674058218dd614e1cad88b48b06e4ceb8bce262b08b0a5991a44;10018603;Dubai;UK;Nao Informado;Nao Informado;1;International;5;International;PO Box 12932;Nao Informado;Nao Informado;Nao Informado
+6bf6c6ffb155be151d48554b5b455ab5c07f106a885e9863c1061db761c71fac;10000499;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+ff9f4f392e4615285e19a81d32919d6a876a2a411c9d280a4f3332e2e51f0524;10020192;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+c5d3608c899cc7bd0b4693430d8372eaea3cef690c3d5cd7e8074dd6ced99650;10021485;Hamel;US;MN;55340-0700;2;Domestic;4;Central;FOB: Clackamas;Attention: Accounts Payable Department;PO Box 47700;Nao Informado
+d149e6574ddc4ac2bf1bf77c906aa38e4520200063e864bd3f27f40458952c69;10019682;Lennox;US;SD;57039;2;Domestic;4;Central;PO Box 409;Nao Informado;Nao Informado;Nao Informado
+b08cedec0c72f468fc799974cfc59abb7d9503cd007fd947878ba94531228bf8;10020931;Bozeman;US;MT;59715;2;Domestic;1;Western;PO Box 549;Nao Informado;Nao Informado;Nao Informado
+1233169455d9b1de968ec2b90cab39088dbb4784f59abfb6ee4a9743483ce242;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+58e231982f4d364c37174cd7db493cbf7945e29697212b2c3592419377647926;10027560;Odessa;US;TX;79764;2;Domestic;2;Southern;3356 Kermit Highway;Nao Informado;Nao Informado;Nao Informado
+cbc4d18392e6a7fe52193db3028461baf715759ebc23d97817ab8af90b3bb6fc;10010882;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+93cebc4c7969523d816ee0a42f6ee7f131baa15a48746f93391d8a6f4f7dddd6;10005376;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4becd03c43bb899cd4a935eb0be4b801daf4685a513e94e33a020a8f3a3ef2bc;10020715;Linares (Jaen);UK;Nao Informado;23700;1;International;5;International;Avda 10 De Mayo S/N;Nao Informado;Nao Informado;Nao Informado
+98c66a07b856deac231f23d7d76682a70b00942c0bcf579823fd504fb26c9edb;10024915;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a24583b2b76137b31283574054f86d3f193df9e926cb0bc590c69629897372c8;10025560;Cramerton;US;NC;28032;2;Domestic;2;Southern;125 Hampton Ct.;Nao Informado;Nao Informado;Nao Informado
+fbee0aed3566aaad64a403205b8eb8f0dfd65de285265b457bc4c89ac5afdb12;10010912;Fort Smith;US;AR;72902-0849;2;Domestic;2;Southern;PO Box 849;Nao Informado;Nao Informado;Nao Informado
+81911945ca0abe8111b9a03fa15e0134436370b6584b70d1396a162c1d7d3158;10003749;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+bd886497267b74f14dd3b0f17325f34cf3052a91856a7b545e56ad0a700e329a;10025264;Tuscon;US;AZ;85713;2;Domestic;1;Western;3545 South Richey Boulevard;Nao Informado;Nao Informado;Nao Informado
+9e51efc1e3bbc912c6f22d5d79eaa9be641c5edf79c5b567e4ea8ab24adf705f;10020962;Mercer;US;PA;16137;2;Domestic;3;Northeast;7320 West Market Street;Nao Informado;Nao Informado;Nao Informado
+a9b7a9a7c50a969f6fc4d8db8c5d68e558a668df442bce93bef5aebfe4b1024d;10025246;Winnepeg;CA;MB;R2R 1V2;1;International;0;Canada;515 Oak Point Highway;Nao Informado;Nao Informado;Nao Informado
+f233482aa1ffd0ea3b31d9838aed01dd4272d7b1d214aec1cc02a934979df9c5;10021305;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c112e76aa8fc512bad3544b9339b8d7f2913306e6f57847e5d078f1d60c3a3e1;10021411;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e3694e8037742d48e0165eeb7a26b234657a9a5aa0360896059f946708475ba9;10019664;MOLINE;US;IL;61266-8808;2;Domestic;4;Central;PO BOX 8808;C/O APSS;Dept. 551;Nao Informado
+af0ba1513f0682d44cc338487f5fefb1235ad05a6261391d41f8686c97e80f2f;10026299;Dallas;US;TX;75226;2;Domestic;2;Southern;334 North Hall Street;Nao Informado;Nao Informado;Nao Informado
+8c3c9f5afd119fb96e32c98abc1ac44b7853306b0aa621bc43a430ec8710df78;10000474;Des Moines;US;IA;50316;2;Domestic;4;Central;PO Box 3265;Nao Informado;Nao Informado;Nao Informado
+ddd485be004a8ec0a9cc9617fa3698d73bef32d6920fc3c346446b24cb597c0c;10013188;Charlotte;US;NC;28236;2;Domestic;2;Southern;PO Box 36409;Nao Informado;Nao Informado;Nao Informado
+31e7750c6f67ec812cb2ff3345dbb5529a29fe4b49f5ebb65b2839c580227e09;10020193;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+eb3ed0b8f9b8bde38338225af78996ee7c4d37c7c98877cd988616d16ec961b2;10018885;Pocatello;US;ID;83201;2;Domestic;1;Western;128 So. 2nd Avenue;Nao Informado;Nao Informado;Nao Informado
+c01010a70e324c0bdbd59a0e01e4ac8bbbe38ddca419c0070a1d68eade738a62;10024499;Houston;US;TX;77075;2;Domestic;2;Southern;8302 Jet Pilot;Nao Informado;Nao Informado;Nao Informado
+32b71869892443b50d8fb08e328cfe3cdfd806166e249cd6188d0473730d3a72;10012235;Winnipeg;CA;MB;R3C 2W7;1;International;0;Canada;PO Box 1005;Nao Informado;Nao Informado;Nao Informado
+473040f5b10fca7ed71c73a522d3f1defa0e6dde7a8506c59df4fc0210e2bfa4;10019952;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2cdb1918e285070d3bc952524fd6a071bcc3f51e11cf39077e2e5311ffff7930;10002501;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7029010a51e5a708e1b84bb693ffdf9086c4b423badf3d81192936fb1719c8d5;10002128;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+db5c76f227b438baaf2fcc9b03a1da0a5577ce1f64b01fe1c35caf5fbca2f6e4;10020393;Fort Collins;US;CO;80524;2;Domestic;1;Western;2649 East Mulberry Street;Nao Informado;Nao Informado;Nao Informado
+fdc2f62eb109f7ee370dacc091ce4c5abd3d4a47c701d6cd8d5c2cfa515c0e57;10020849;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+f52abccf643cf111c458f8fdae7fe66205bfb0cbfa3ca00896e2b20398c9d9b0;10013341;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a5327fa9be32c89a26ece1416bcaa4364d91652855e98fcacfe80be4cf8f7188;10013061;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d566c681b999e65cf4d01fc11b98a14fbab209c577ff4201ef6f1088370c5f4a;10022166;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+fb1ae477c9806d69b544efe3fd86554a9f60e7fb5283de564a6bc5e0b13d3305;10025515;Jackson;US;MS;39213;2;Domestic;2;Southern;3650 Bay Street;Nao Informado;Nao Informado;Nao Informado
+c5bdb5aaab5d2cca3986c44df5cc20db61b447ee87bb22b25354ab6378513ef9;10016588;Schertz;US;TX;78154-3214;2;Domestic;2;Southern;6025 Corridor Parkway;Nao Informado;Nao Informado;Nao Informado
+39354a057e61f8e0b1df39176c2a24ebc4bfc1b090f81e74291780a116f1f532;10000497;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+bf4916c1f206e323c1e82391162bd7ffa46d24a7447b60d3228b3c42d85e8f84;10008638;Milesburg;US;PA;16853;2;Domestic;3;Northeast;301 Iddings Street;PO Box 865;Nao Informado;Nao Informado
+62007a8b03d4a92b104550c470e2c9e76f23b7529d7fd80f1d3f287a22065130;10009606;Kilsyth;UK;Nao Informado;3136;1;International;5;International;PO Box 105;Nao Informado;Nao Informado;Nao Informado
+f38a6d8e9f5cdcd47c822f9790dcdc5f9b5e27c5f350c37eaab2a62f58621edb;10014059;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+da486abe3b56c564448dd3f77caa09d80f3dc0a0e709dd3d2c556ac44f69e93c;10024003;Benicia;US;CA;94510-1020;2;Domestic;1;Western;Attention:  Accounts Payable;5500 East Second Street 2nd Floor;Nao Informado;Nao Informado
+d3f028f81775b94209e3cd67dd869ad8862a181298afa63c440a3bbd96869363;10014810;Canton;US;OH;44711-8844;2;Domestic;4;Central;Attention: Accounts Payable Department;PO Box 8844;Nao Informado;Nao Informado
+f114337ebd5e83483d30ce45fd9febea0f7c4bfa40fee2212dc86d2f1d3e8f80;10023538;Fort Worth;US;TX;76177;2;Domestic;2;Southern;Attention: Accounts Payable;4900 Alliance Gateway Freeway;Nao Informado;Nao Informado
+a88e5b1d84e89664161a45c31edcce9fec1f22cff74231d09c5355aa6f5af43a;10014739;Tulsa;US;OK;74116;2;Domestic;2;Southern;Division of Parkhurst;15051 E Admiral Place;Nao Informado;Nao Informado
+06fd724e8072cfdaf7b30ac6e6c13381a4162984439c8638d9e9902ed4ee5b9a;10002240;Medford;US;MA;2155;2;Domestic;3;Northeast;50 Mystic Avenue;Nao Informado;Nao Informado;Nao Informado
+15dc60d4df883fd085b8c884cd335d76f661d48c20ca7491548a70169fd2caa9;10022431;Vinton;US;VA;24179;2;Domestic;3;Northeast;845 Third Street;Nao Informado;Nao Informado;Nao Informado
+e19d564caf57edd2876506d498f413421394e924fee3801c35c6572c4654a5be;10014802;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e5fcc43f04fb3a558322d317b4daef148b0f94f0afb9c4b6384c8817538d32fa;10009631;Corona;US;CA;92880;2;Domestic;1;Western;1477 Davril Circle;Nao Informado;Nao Informado;Nao Informado
+db9eb38a8a7363279b078e8a7b8c705a956c249f03d16513ac64bc0e61d87d0c;10014469;Livonia;US;MI;48153-7940;2;Domestic;4;Central;Accounting Department Service & Parts;PO Box 537940;Nao Informado;Nao Informado
+a9887af22c0aa97d155db63270640273982e12ad7d63b899db266374f3fd38df;10021145;Brookhaven;US;MS;39601;2;Domestic;2;Southern;1127 South First Street NE;Nao Informado;Nao Informado;Nao Informado
+a862ede95343db34c278523fdad6fd63bc5fe23b37e7e04062354f9337978323;10021470;Wrightsville;US;PA;17368;2;Domestic;3;Northeast;815 Hellam Street;Nao Informado;Nao Informado;Nao Informado
+a7ea26049a93af8797225e561d4994e1289ca6ca736fb5766f8e88cc346ae741;10025032;Montreal;CA;QU;H3S 2T4;1;International;0;Canada;c/o Rampar International Trade Corp.;6260 Place Northcrest Suite 305;Nao Informado;Nao Informado
+23f077085d4d6b2e58639645de3c23ac053b67bcf16ad9840bc9882e6f24dca6;10025242;Seoul;AU;Nao Informado;110-793;1;International;5;International;Parts Division;140-2 Kye-Dong;Chongro-Ku;Nao Informado
+4fca32602d4d078fdcaf19a4d8ca3c882711484b1ea00145327e7d28dfe2b4a1;10024477;Santa Cruz;UK;Nao Informado;Nao Informado;1;International;5;International;Modulo 2 Manzana 27;Parque Industrial;Nao Informado;Nao Informado
+9362f4fb4a99c5ce355d7f0000012296ac50541d4362a6853dfa2e1449b4c1c8;10023759;Birmingham;US;AL;35244;2;Domestic;2;Southern;106 B David Green Road;Nao Informado;Nao Informado;Nao Informado
+cbdea2c8c7a2b38fcee277c84146d6afdbcd27f96b115d731e8c911a7e0b3310;10023793;Holden;US;LA;70744;2;Domestic;2;Southern;PO Box 249;Nao Informado;Nao Informado;Nao Informado
+97447bebeed5671b28f54b5a300b35a693e3a91221ada4971c4e361c52f3c31e;10006037;Miami;US;FL;33122;2;Domestic;2;Southern;7225 NW 25th Street;Nao Informado;Nao Informado;Nao Informado
+812cdfdbc548e1757576a3127aa9909fa1b88ae904382c559eab018d732623e3;10005810;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8d569483608ca675ea05eedd39dc41162690aad3ba7ee9a240ab1b6e33e1eb05;10010923;Seocho-GU;AU;Nao Informado;137-938;1;International;5;International;231 Yangjae Dong;Nao Informado;Nao Informado;Nao Informado
+b05c1ae69933119c2b93e25451a43caa8318d131fe0857cf63171062a0eb072e;10014779;Fairview;US;NJ;7022;2;Domestic;3;Northeast;PO Box 206;Nao Informado;Nao Informado;Nao Informado
+98c1d37333b39eae5c923256a3e511aea7cf286eaf84dd3aa0f5588294d0dea7;10002140;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8c92b46a64bf696ebdbacea565ef4b87570e17abb911eaaa837939540fda97db;10023703;Istanbul;AU;Nao Informado;80090;1;International;5;International;DUMEN SOK. No:3 D.9;GUMUSSUYU;Takism;Nao Informado
+6ee1361c00705299643c35c738293df0be2a4dcfb7a0c26f3948a37b9da0792c;10021111;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4f5c055e5fb9e86ed970b34b37cca93178f83b2c6c4d897f6a300f0233ffe555;10007457;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0c7c55c5c31ebc02e8302c48beed5530f8421cfb49a39d32858efb096270f00c;10009656;Trinity Center;US;CA;96091;2;Domestic;1;Western;PO Box 450;Nao Informado;Nao Informado;Nao Informado
+15c42efea7b29f7f0e82acfe20ac135a46793881e08a69fe80f981c3a1a50b80;10019109;Sacramento;US;CA;95851-1297;2;Domestic;1;Western;Sacramento PDC #13;Attention  Accounts Payable;PO Box 15279 C;Nao Informado
+f8aa356562f2b97b5d93371b2aa9093ce72a5a05f0a36c2dc7d9e9056f23f37d;10008893;Yakama;US;WA;98901;2;Domestic;1;Western;508 South First Street;Nao Informado;Nao Informado;Nao Informado
+62210adc2bd48bca4b17c60733e6937f410c207983a2826ca4555a468e5b54ba;10000453;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7302fe2fe10b925274c1ca905ce06fe7bf2be9f70d0b8fdc4fa92bd242122c3b;10020662;Jakarta Utara;AU;Nao Informado;Nao Informado;1;International;5;International;Kelapa Gading Kirana;Blok H13 Number 30-31;Nao Informado;Nao Informado
+20a8e0e0dce46c1ca7432f1e77b5a721b235731a84f4e62af98a1a733d808230;10010897;Whitehouse;US;TN;37188;2;Domestic;2;Southern;PO Box 588;Nao Informado;Nao Informado;Nao Informado
+c40384b1aa81c7e79acfb86d107f4cd7bd0afc3a58327627453b03f48276f40f;10009639;Industriestrasse 17;UK;Nao Informado;Nao Informado;1;International;5;International;Industriestrasse 17;8910 Affoltern AA;Nao Informado;Nao Informado
+85d4576547408b5d46116c7a13069613fa0d240a7e6237ae4fbfa8cef750ac0b;10007122;Buda;US;TX;78610;2;Domestic;2;Southern;22015 South I-35;Nao Informado;Nao Informado;Nao Informado
+e25a7565f6697091f8da2882f3035a921e9e4a07e87085307cba64b86dd493ac;10026062;Houston;US;TX;77092;2;Domestic;2;Southern;2301 Central Parkway;Nao Informado;Nao Informado;Nao Informado
+b56bf163f4c0d358130144fd30c770d74e9aa410ba9445c468adde3ac8568e08;10020266;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+dacee55256f99e7fe1edf795b9c1df89f1176fb1b75478fbc0b32183c7e6109c;10007134;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c08d41a1eba93d898e31e0bdc162f2c4b513b662256938dc859095079c783679;10020492;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+60dec369823fe23705f58874bc5f2ce841878e50e49a2025bf85ebe9263eafbc;10011398;Eugene;US;OR;97402-3519;2;Domestic;1;Western;1942 W 11th Avenue;Nao Informado;Nao Informado;Nao Informado
+1d372549592901fa5282867e30c4711ff28b6716fe88e0cc8212e47af00df691;10022450;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention  Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+81d95ec65b010fdf01ae423486aec6b2cb0deeb7c5ff394559e39815d16645b8;10003857;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c16ae8551c77a0e0c8cf4dc68f621941662a49d1f1b049da8ab5d52b57b46a05;10017585;Milwaukie;US;WI;53225;2;Domestic;4;Central;11811 West Silver Spring Drive;Nao Informado;Nao Informado;Nao Informado
+afa7e431020ba219b126d6947b0d13967485bff504771da6028c07913c7383c5;10026348;Mebane;US;NC;27302;2;Domestic;2;Southern;PO Box 220;Nao Informado;Nao Informado;Nao Informado
+aa4c5e27b2f828b1db49ef32df09588cd27141fd048976b4bf97a5fd092a9511;10013252;Irving;US;TX;75016-7728;2;Domestic;2;Southern;Dallas PDC #15;Attention  Accounts Payable;PO Box 167728;Nao Informado
+f7d3539ec8ce6087768267109577af41a345b32bdbed2b9dcff978499af024ab;10016542;Greenville;US;SC;29605;2;Domestic;2;Southern;Greenville PDC #23;52 Bruce Road;Nao Informado;Nao Informado
+46ba9a0190588d6921b780a6ed51c0870b93750a55c698c96021450d672c2caa;10025038;Mechanicsburg;US;PA;17055;2;Domestic;3;Northeast;PO Box 568;Nao Informado;Nao Informado;Nao Informado
+e091154385ce254c989af5da1ec8d807532f50176ed1215217d2c1f37a6d08da;10000471;Jeddah;AU;Nao Informado;11443;1;International;5;International;Al Thalia Street;PO Box 11605;Nao Informado;Nao Informado
+5bbc4ec8c7d19eb43a9bfc965d20cfa2beac5b7ee1892d86c48aad45eeb11525;10020281;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b63be7cc7c29889b4021bc4208a2312705da777240badb9e63f52b1f2013d75d;10001786;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+225afe4c68d553d3f0cdfec957208999e5ec34307dbc4a4e0e4e3ea7e806fc93;10025583;Nesquehoning;US;PA;18240;2;Domestic;3;Northeast;One Industrial Complex;Nao Informado;Nao Informado;Nao Informado
+58f353ade9fda564eca397a9a345475d31366eb2d064bb828f4175d0337b3701;10013426;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2f03a5d181a85c9bc297ba026260e1b7e069efe4e976c7f66ba20a9bdbc61665;10018371;00-394 Warsaw;UK;Nao Informado;Nao Informado;1;International;5;International;Solec 44;Nao Informado;Nao Informado;Nao Informado
+8e6a68f98439f810f008fb8da09e03f4212300c280ef134eb29e85faa6446422;10005861;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+daa3e034b32f90897739364f6950686cb748e13c49b4de654996f7089e56caa7;10021286;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d15b89f82887b3f21b7533062566a475f6c57e211d3e85a1a8c67f28aef9bb98;10025467;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+55e5cf16c23ffd903b81b6b45707fcfe2c416ee348b19e65660b8893667e3fd8;10020663;Sparks;US;NV;89431;2;Domestic;1;Western;540 South Rock Boulevard;Nao Informado;Nao Informado;Nao Informado
+69069252a00f370c4982fa9e19dde43a7d653fcb088f4998f2e25be99dff702e;10025021;Depere;US;WI;54115;2;Domestic;4;Central;1151 W Main;Nao Informado;Nao Informado;Nao Informado
+23cd254a5a5e10e46f98a881dcdf9489320147f35a7ad7c8f0dea65ad0103cfd;10024550;Appleton;US;WI;54913;2;Domestic;4;Central;PO Box 2017;Nao Informado;Nao Informado;Nao Informado
+708f9807b721d3f280ec1cf43a0ec1e76f0c5ac247654b192e8eaf8f4e7e5e10;10002136;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b42653364acc14d775837385a845689e02b558519ca2992693cdce860860aad2;10006846;Modesto;US;CA;95351;2;Domestic;1;Western;1023 Kansas Avenue;Nao Informado;Nao Informado;Nao Informado
+8c72bce969ceb8584aa284b97c649f6c2ca11eff02e418306c43aa65d321934b;10025049;Milwaukie;US;OR;97222;2;Domestic;1;Western;13270 SE Pheasant Court;Nao Informado;Nao Informado;Nao Informado
+ba8646973f24e1abd98f0db9f7b087a931e1448a806c88db253ad60c083200fb;10026843;Tulare;US;CA;93274;2;Domestic;1;Western;100 East Inyo;Nao Informado;Nao Informado;Nao Informado
+d23aeb06f836ef4ac5c25969f2a7b164ca5129f1e2a148dcda9f06336082066e;10025359;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+b4c95ae8d899ef0d24b5d75b86512e31a6c67763e5fcf816ae87afac86ce9199;10021331;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+5a622d64eec29288cecc00a759129a67a2e3a5670f087718f8252ccfb812bae4;10013238;Janesville;US;WI;53547-5222;2;Domestic;4;Central;PO Box 5222;Nao Informado;Nao Informado;Nao Informado
+14cb90a76d3cb57c1a795e2b5bc4dbad3197c100303166e806f7d8272090f73b;10007121;St Louis Park;US;MN;55416;2;Domestic;4;Central;5711 West 36th Street;Nao Informado;Nao Informado;Nao Informado
+d710b3ac118af86992c2c5476004db88153c2d61ca57551049728b7d96762ce9;10017307;Anjou;CA;QU;H1V 1R4;1;International;0;Canada;10401 Boul Parkway;Nao Informado;Nao Informado;Nao Informado
+2540340b5e9edbe1072825450fee85ff801168b3cb170af4d6689ff9b3fa613b;10012761;Cali;UK;Nao Informado;Nao Informado;1;International;5;International;Av 6A Norte 25 N 43;Nao Informado;Nao Informado;Nao Informado
+f3db3fe21748066fa4fc769e35027bd047fb9367b12e5406f476f91ea2a804f6;10021179;El Cajon;US;CA;92020;2;Domestic;1;Western;316 Millar Avenue;Nao Informado;Nao Informado;Nao Informado
+df83eeb7d1ff980205039dd8db9b9f4caaa1f08b317e96a09c995a446f985d5c;10008593;Highland;US;IL;62249;2;Domestic;4;Central;PO Box 99;Nao Informado;Nao Informado;Nao Informado
+f007d16616c9e31b894e25f99735b69427baf9f50ee82aadcf49219e13b23496;10025040;San Antonio;US;TX;78216;2;Domestic;2;Southern;6127 San Pedro Avenue;Nao Informado;Nao Informado;Nao Informado
+805610c10d9b4d7b00feffc1b163a51fca7795a961680381de9aa1d26445f432;10002969;Manassas;US;VA;20109;2;Domestic;3;Northeast;12000 Balls Ford Road;Nao Informado;Nao Informado;Nao Informado
+523cf2eb7a2df23f1ca53b337610415c92c89f41d9498aad983163b5b474fdde;10000472;Van Nuys;US;CA;91406;2;Domestic;1;Western;8000 Haskell Avenue;Nao Informado;Nao Informado;Nao Informado
+c927791201f65d1e89434b945f64a9379b823dc773dd7285a98a121dce2d952c;10013574;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+d11a2b2e8166af936c90bd00a0f9ce60a2faf8a2906afff41a67174bfe34be5b;10007536;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c27059cb2bac55b62e376853e6240aca3625763078c1f47fb28382ad97a68dae;10023447;Tulsa;US;OK;74115;2;Domestic;2;Southern;Attention:  Accounts Payable;1624 North 71st East Avenue;Nao Informado;Nao Informado
+4dc0e1d82a93f01b8144ef08f998e104a1f833358134703eeeebc1d28c8509d3;10019879;Duluth;US;GA;30096;2;Domestic;2;Southern;3564 Buford Highway;Nao Informado;Nao Informado;Nao Informado
+96877d4c62f42e7eee9895b3df1a2b9d842803ccfb319e7dd8e1411c1318d106;10006836;Quito;UK;Nao Informado;Nao Informado;1;International;5;International;AV 6 DE DICIEMBRE;N47225 Y Samuel Fritz;Nao Informado;Nao Informado
+cf8ad21749db63fa9fe9e5fbc0783ae6cefc86443f1094872cf893d841afb0ee;10021750;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+1f6bc41b5af633c3f01382ce5fc4c4e0d0c24e1d2f541feca461d4cc326f1b6a;10013765;St Louis;US;MO;63109;2;Domestic;4;Central;5821 Hampton Avenue;Nao Informado;Nao Informado;Nao Informado
+e931d54cd030a7c04c658ad03bec6c679937ada865071940d1b6c3bd6c5766ad;10016045;Monroe;US;WI;53566;2;Domestic;4;Central;1051 West 7th Street;Building # 2;Nao Informado;Nao Informado
+aff548b4ca04213d97d2f837b837d23e3da7277403a585a5a495bfbda58788ba;10026560;Dearborn;US;MI;48121;2;Domestic;4;Central;Central Accounting Service;PO Box 6005;Nao Informado;Nao Informado
+ea6e3d09492f8494df70042857245288814fa1dd50723293fbac2e6618f1fbac;10002220;Prince George;CA;BC;V2N 1V6;1;International;0;Canada;1594 Nicholson Street;Nao Informado;Nao Informado;Nao Informado
+433551b7b76e49d26c9c616ebdbb460965700f5b320ffd7277a17201c3815444;10024022;Irvine;US;CA;92618;2;Domestic;1;Western;9950 Jeronimo Road;Attention: Sohaila;Nao Informado;Nao Informado
+b7b59a2d94eea024041281c04a03ae9cf4e0a02fc03b9f173ef7f3b96e4487fc;10025302;Tulsa;US;OK;74107;2;Domestic;2;Southern;4345 South West Boulevard;Nao Informado;Nao Informado;Nao Informado
+36049facd78e6aaaa94304862cd63083b87c82a4c67ea28127a723c8d0a7c824;10020332;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+f11cb8eafebac5f875bf0e5a402f1457fe8a001deeaf52532142925068c52d1f;10002114;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c54acdb971add076e6f3436a0ae13b9866f28945d6b8d0ca846058ccc045d3e7;10012369;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+30f5caef5cdd2d00a05bccd536a08ed1652aea10e51a84937606fc4031429438;10016858;Beaverton;US;OR;97008;2;Domestic;1;Western;6590 SW Fallbrook Place;(Commercial Industrial);Nao Informado;Nao Informado
+73b28ede8e797e8b33c3acf4bc54eb1c61994cfb46430a22122fa19dbc2596a2;10004302;Baton Rouge;US;LA;70815;2;Domestic;2;Southern;9555 Airline Highway;Nao Informado;Nao Informado;Nao Informado
+a11f6e5818d7ccf13857b7595010e0f31c0b3e0e6f71ace47b8712b3ee9cf898;10011821;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+6c438cec9583baf9a74f6215950de968db1fdea0641763e9995a120294f7cac9;10010717;Waterville;US;KS;66548;2;Domestic;4;Central;208 W Main;Nao Informado;Nao Informado;Nao Informado
+861ef58ecd58849cd5832308b8c34fb653382f51748af065c2169cd029e7733d;10015956;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+cf3465078536dc06f61ba2249a5187366e498eabc4814091a29206720092ba59;10013870;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+1786dd4ac0e34cd4cd6153af312d9dcaade6785b476d61b4b605032385499d41;10018623;Laurel;US;MS;39440;2;Domestic;2;Southern;17 Perry Road;Nao Informado;Nao Informado;Nao Informado
+04bed15fda07d46fa02be6de6eba1338eab10fe54dd20b356ad707fa9e9fe81e;10026581;Savannah;US;GA;31403;2;Domestic;2;Southern;PO Box 22249;Nao Informado;Nao Informado;Nao Informado
+6ba1656504fb4a77e99f9c94584d8fd8c7829a6e4a94ed24cc1d252ff5b67d9f;10009885;Winnipeg;CA;MB;R3C 3B3;1;International;0;Canada;PO Box 7100;Nao Informado;Nao Informado;Nao Informado
+08906cd4612aa74bfbfc0a653411c890232f6152ee2961234cc3f2beeac84e53;10013039;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+7326474e0f982d91022515908e8244b6b2bc298060e538a68dae734f8b44bdcc;10004256;Portland;US;OR;97294;2;Domestic;1;Western;PO Box 20505;Nao Informado;Nao Informado;Nao Informado
+3293bef870cf21c4440d5291f7375a66772553717c7a6d89fb667e9eac7a34ea;10017054;Newport;US;MI;O;2;Domestic;4;Central;7640 North Telegraph;Nao Informado;Nao Informado;Nao Informado
+3caa02fd27a345292df5115f67dc0545bbdb84587aef83395cb5c5867b2a1a0d;10025252;Elkhart;US;IN;46514;2;Domestic;4;Central;PO Box 4405;Nao Informado;Nao Informado;Nao Informado
+990ab72f8774e1ad10df2df25f707cfc8444d8592d2b17cbbe2b5946e2e4aca1;10026336;Columbia;US;SC;29202;2;Domestic;2;Southern;PO Box 26;Nao Informado;Nao Informado;Nao Informado
+b72a0739dc9c04a37ff6746ec60189cd91e76abf76c16dee71df2491dcdd3579;10005919;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+8382f119754e0f7dc8d52246e977807963e7724d25ee4b9ee9371c69d7a9dad3;10021804;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+ffd7126a633a70d4f11f059dd6b8f9b7d05e325a17e89d0e96e8203810fb0ba0;10014047;Fresno;US;CA;93706;2;Domestic;1;Western;1510 Merced Street;Nao Informado;Nao Informado;Nao Informado
+770daf704f35fe0b61541074f2fad2fd74ddd0d8fcd62f2debc361c54c23ad06;10024999;Andover;US;SD;57422-8811;2;Domestic;4;Central;RR 2 BOX 9;Nao Informado;Nao Informado;Nao Informado
+88705a24cb598d2c511f1163c4585fd675db19cb22f9846d3cd5b74b45ad9f4d;10013312;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4945e26ce14ba248368fd4fa0ed87c34f15784ee55cccadd6a705a1446bae4c1;10002142;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+85f4e510d8024d9a85b7e46ef4bc4194c230785d5f405af5ce55eb5a4eda6c9d;10025024;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+eaeac8ca9c0885ce14bcc9c6e6d1fdf5f4ad78d006f06b1c9fd3c4932dfd09a0;10025158;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+9bc8ca6f7dbb2fb9f47ef3f34ba12b4fbf54c51b54a3a18e06cba3f307235c39;10020684;Montgomery;US;AL;36117;2;Domestic;2;Southern;5415 Lamco Drive;Nao Informado;Nao Informado;Nao Informado
+90d22b2e136c2eb1fa66d90b7e85dcbb1c207a508d73b1a8e11e3d01fcc4c42a;10012927;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+158d4a3d4bc448a8d2a33a255f8937463281b30a24357c74a503280bb4d60a7b;10007448;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c7964c265803273a0e0e7db266af3af5c5927c9599f6040a4fe4cd871921f0d3;10009672;Phoenix;US;AZ;85036;2;Domestic;1;Western;Attention: Accounts Payable;PO Box 21502;Nao Informado;Nao Informado
+1efab38ba1fd7db30ea5e71bf2c6a9ef492aac08a536d842cc3a2155a08817af;10019678;Sacramento;US;CA;95821;2;Domestic;1;Western;3248 Auburn Boulevard;Nao Informado;Nao Informado;Nao Informado
+b6c4ad283c700a3619772beed601772ef7f59ac126b2d3d85f9361dbe1573819;10003882;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+e6fd04f2085304362a85d0906e97f88317f6164cd9ccb8e9499451deccd98b49;10026291;Poplar Bluff;US;MO;63901;2;Domestic;4;Central;1880 N Westwood;Nao Informado;Nao Informado;Nao Informado
+f23a4d91c063afc2bda2e430836d4abb341fa8b1d820a30b834abcc8a2903a7e;10000456;Edmonton;CA;AB;T6E 4N6;1;International;0;Canada;8151 Wagner Road;Nao Informado;Nao Informado;Nao Informado
+679e4cf0b4a5fabd121aa1983ae717816a94b9b0670d0f6e8c422e8a138d6d0d;10019812;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+801756199f159689333996acf1b70b65a519c737cceedc8ad8e2d2e52a0e8505;10009645;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0946439dfdb54e85a3d862c725aad088edd9050312eec6e04b695cd4d8bd67d4;10011724;Ingersoll;CA;ON;N5C 4A6;1;International;0;Canada;300 Ingersoll Street;PO Box 1005;Nao Informado;Nao Informado
+3bd570b7e7c77e537d0a2a213d42cec81c6599778a67a81fbcafb16ba3fe473f;10011355;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+dd1353be35445928c788b44a7f7f873fe9d85f0e00a398bfb27e694867fa198a;10013397;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+af0a6db6299eef3ddb1d7fb572d970e0bbf5e347544fbfd93ec3200764c2b86b;10020445;Rapid City;US;SD;57709;2;Domestic;4;Central;PO Box 80;Nao Informado;Nao Informado;Nao Informado
+a0e5438ed3c0d74c3bb8429f08b27b492527d85f8768951ae76d52c148d4d3f4;10009662;West Point;US;PA;19486;2;Domestic;3;Northeast;610 Garfield Avenue;Nao Informado;Nao Informado;Nao Informado
+0131dd3cebc535e78bbdbb11fde26419b7d984f196a28cf497eb55203bef1cb8;10002154;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+bcd16f87136965da800f22c3ea3b0d24caa7b1803365edda07163eddf509053b;10013509;Joliet;US;IL;60435;2;Domestic;4;Central;207 North Scott;Nao Informado;Nao Informado;Nao Informado
+faab45ba2ebbd5f9992337892639e7a5cfbf92ee2dfa6b89d0c9ca5fde445670;10009623;Gretna;US;LA;70056;2;Domestic;2;Southern;2125 Whitney Avenue;Nao Informado;Nao Informado;Nao Informado
+f44cc534760b9c5f111564c364c0b397567bbf447437bb85e77b012abc5ae42f;10000461;Boucherville;CA;QU;J4B 7K1;1;International;0;Canada;1391 Gay Lussac;Nao Informado;Nao Informado;Nao Informado
+aea436e0754de31463d4a618e03e1f81007575be2cb92afa2dd61408038ce281;10012600;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+cbfb014729ee4705de003d9ae0e3733cfe61e213643105397bb369e0fff302e7;10010698;Gardena;US;CA;90248;2;Domestic;1;Western;17010 S Main Street;PO Box 88;Nao Informado;Nao Informado
+57be38b6fecb7ffa9ed5a03cbaf8a625b8f9a0ab095479c32e0e7f153dfede6b;10022732;Lake Hamilton;US;FL;33851;2;Domestic;2;Southern;PO Box 900;Nao Informado;Nao Informado;Nao Informado
+9bbb108f81531946a0c57c483e71a0f8adadef1a9f3ef7e8886fa804646181d3;10021911;Te Rapa Hamilton;US;MS;Nao Informado;2;Domestic;2;Southern;Cnr Avalon Drv & Tasman Road;PO Box 20077;Nao Informado;Nao Informado
+b04f1d59e7e770737108fae7916c329cbeb62efec623a1fae3169eefc8f0c6d4;10002159;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+ae117bd82ac604dad4cf90308c92a27b6ad4c04e995f070f38646ca10fc810e6;10002520;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4b5cd7837314b177718e14cdeb179c63424c531e57a9fe2845ce1fe445c7b469;10019880;Somerset;US;NJ;08873-6750;2;Domestic;3;Northeast;New York PDC #20;Attention  Accounts Payable;PO Box 6750;Nao Informado
+0779a067448f4e1345cbfb27e3dd23a7e60c45de39df63805f1ae64a720479e2;10011870;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+1dfe1280ed9a9cf8090680fd0a70859ab39143cac5ec810bd7eef5597481e1b8;10016564;Traverse City;US;MI;49685;2;Domestic;4;Central;PO Box 2338;Nao Informado;Nao Informado;Nao Informado
+236f7b7d0679d669a2f44f7ad4da40ff3873e6bb0f181d381fed4853b74f1a91;10010884;Boucherville;CA;QU;J4B 2X3;1;International;0;Canada;170 Industrial Boulevard;Nao Informado;Nao Informado;Nao Informado
+54075a9bf4327a664a03d49a3a734c0a2ff6736c33b4cbbe3a89913f21722c0f;10023241;North Little Rock;US;AR;72113;2;Domestic;2;Southern;7700 Counts Massie Road;Nao Informado;Nao Informado;Nao Informado
+b0586a52aa0934bd449ea65b98fff46e006536a2f1ba517f3e03f3afb7d158fb;10027119;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+a0ab7dfeedd95b3e569f542f50cbd6a24bea5ec93c0a1e6520090fc4d3984a30;10021223;Wayne;US;MI;48184;2;Domestic;4;Central;Michigan Truck Plant;38303 Michigan Avenue;Nao Informado;Nao Informado
+70d48c272a470f0ba0a9bb424396c2ce0e4ec362528cbfd16acc641f5e6d2e85;10005236;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+c7dfa9dd7649e2d29edb08f79acc0ddde0c33e610aed1a2cca520b7b7f1d8e86;10019194;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+fd1d8000a50638e8a3f8360992944d02824abd3b5ad6d883250db19b0bed1aa2;10013332;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4cba0a053bf45ba6583bac98f670058c90ca6b9914495fdf3cb1ff452148f790;10013232;Milwaukie;US;WI;53225;2;Domestic;4;Central;PO Box 250825;Nao Informado;Nao Informado;Nao Informado
+88bac44478f485a7b736264aaf737f61c8e07826df46703fa6f1a8477af4d2bc;10025239;Nao Informado;UK;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+06a7cea6b92968738239041e34cf88f5d00a836298c818dc53a5390c08e26a67;10027050;Milwaukie;US;WI;53209;2;Domestic;4;Central;3204 W Mill Road;Nao Informado;Nao Informado;Nao Informado
+bd2a20b25d4fcf583b458c78b9d72eb1c9227588331f634cf1e99d9281a1ad17;10023235;Houston;US;TX;77061;2;Domestic;2;Southern;7600 South Santa Fe;Nao Informado;Nao Informado;Nao Informado
+ca7c9ab8d44cf9f397350bf51610f660fccfe50cdcf10fa20e57042d00dd87d0;10000478;Little Rock;US;AR;72209;2;Domestic;2;Southern;8120 E Doyle Springs Road;Nao Informado;Nao Informado;Nao Informado
+af707fe57dc74bc1ae133d5c5303fdc9bfc0f71ef4a8db3fee75d57d61db6a54;10021158;Surrey;CA;BC;V35-6J8;1;International;0;Canada;#9 - 19257 Enterprise Way;Nao Informado;Nao Informado;Nao Informado
+f89eea6e8e48a8bf00cb5473b52976d0b78e77e91a227f8356d6b6a6e429342c;10025769;Redding;US;CA;96002;2;Domestic;1;Western;850 Commerce Street;Nao Informado;Nao Informado;Nao Informado
+112ae59074fce2d98e86e525aabfded99e6819901152e7e4c870e942d8f4e8bd;10021986;Livonia;US;MI;48153-7940;2;Domestic;4;Central;S&PD-Special Accounts Sales;PO Box 537940;Nao Informado;Nao Informado
+b5e6990d51715f534c5353d7f1c9a3240b136a0c0621842c36bdb6d75caeea8d;10027082;Edmonton;CA;AB;T6E 5V2;1;International;0;Canada;9111 41 Avenue;Nao Informado;Nao Informado;Nao Informado
+9c5a7f5f9b1de12d82b183706dbbb2829521f816f489811e44ada2318a05a0a4;10009652;Valcourt;CA;QU;J0E 2L0;1;International;0;Canada;550 Du Parc Boulevard;Nao Informado;Nao Informado;Nao Informado
+e038aeedb6a76e89df5fd8e8f17d142c5d52ea0cbe8b43321ddc15888b41b339;10012851;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+4812ff11c296591933ebd8967380c4dfe1f45a8705bb3d087d0a06e2e4e5b8a5;10010855;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+0960ebbed6df8585b9a5c19227425f218db27df783e19b38072019f11a05252b;10019942;New Castle;US;IN;47362;2;Domestic;4;Central;299 East Country Road 300 South;Nao Informado;Nao Informado;Nao Informado
+a86626d7eddcbc0d00a5274d7b2343a1975557796cbc6c71a2648577bbd46df1;10020446;Pontiac;US;MI;48341;2;Domestic;4;Central;Worldwide Purchasing;1999 Center Point Parkway;Mail Code 483-550-200;Nao Informado
+b806f9fbdd99ccbc538566b1a21ed1f3fcae5c624570e117bda2fed33990a318;10012158;Nao Informado;Nao Informado;Nao Informado;Nao Informado;1;International;5;International;Nao Informado;Nao Informado;Nao Informado;Nao Informado
+2c386c89f33674153d403a019dc83c4e0e5640ddf99997b9a4edf06e0c9daaa5;10010935;Sioux Center;US;IA;51250;2;Domestic;4;Central;877 1st Avenue NW;Nao Informado;Nao Informado;Nao Informado
+199f783f85e2a31ff4b96007f5aa4a541f400f7cb7b0f91ed41056c72a8886c3;10016548;Mobile;US;AL;36619;2;Domestic;2;Southern;4700 Rangeline Road;Nao Informado;Nao Informado;Nao Informado
+8e3b57fdf8428c127644e93623ca119918312049423568c6ac406c15af7c56c5;10020672;N-0598 Oslo;IR;Nao Informado;Nao Informado;1;International;5;International;Brobekkveien 105;Nao Informado;Nao Informado;Nao Informado
+641c322ea1b9ef1dfe26f2eb8e261da56685097341accb6b1170fbc54bd0c0d2;10016334;Overland Park;US;KS;66282-2990;2;Domestic;4;Central;Attention Accounts Payable Department;PO Box 12990;Nao Informado;Nao Informado
+51e53bdfd58f90159e6e941c42fe3359cbd3733db58deaaa8fb090dbf55021fd;10000475;Charlotte;US;NC;28213;2;Domestic;2;Southern;5745 N Tryon Street;Nao Informado;Nao Informado;Nao Informado
+84d60f6fd93a25af155efebe4b9801d92ae7ed13d720c358b34431ef9fdd30a5;10022678;Richmond;US;VA;23224;2;Domestic;3;Northeast;PO Box 24217;Nao Informado;Nao Informado;Nao Informado
+8bcaeef055eb79ff57e243ec8dd9ac706244770dd70aac3063d9b7f4ef2f4811;10025298;Toronto;CA;ON;M3J 2E5;1;International;0;Canada;1111 Finch Avenue West;Unit #22;Nao Informado;Nao Informado
+700301dd27665a9e746b31624c432e5a0957a02b71237f1e7979bdc4362f65c1;10021668;Independence;US;MO;64055;2;Domestic;4;Central;13208 East 40 Highway;Nao Informado;Nao Informado;Nao Informado
