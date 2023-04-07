@@ -18,9 +18,9 @@
 </div>
 
 
-- [Escopo com as etapas desenvolvidas no projeto](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive)
 
 ## 🚀 Começando
+- [Escopo com as etapas desenvolvidas no projeto](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive)
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 - `git clone https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI`
