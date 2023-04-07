@@ -18,9 +18,30 @@
 </div>
 
 
-## Desafio
+- [Escopo com as etapas desenvolvidas no projeto](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive)
 
-- [Escopo com as etapas do projeto](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive)
+## 🚀 Começando
 
-Desenvolvedores:
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+- `git clone https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI`
+
+### 📋 Pré-requisitos
+- [Docker](https://balta.io/blog/docker-instalacao-configuracao-e-primeiros-passos)
+
+### 🔧 Instalação
+- `cd bigdata_docker`
+- `docker-compose up -d`
+
+## ⚙️ Executando os testes
+- `docker-compose exec -it hive-server bash`
+
+## 🛠️ Construído com
+
+* Pyspark
+* Hive 
+* Power BI
+* Shell Script
+* Docker
+
+Desenvolvedor:
 [Luis Paulo Brito](https://github.com/luispaulobrito) 
