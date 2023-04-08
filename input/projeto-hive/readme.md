@@ -45,7 +45,10 @@ Etapa 4 - Gravar as informações em tabelas dimensionais em formato cvs delimit
         - DIM_LOCALIDADE
         
 Etapa 5 - Exportar os dados para a pasta desafio_curso/gold
+
 [Tabelas processadas](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/gold)        
+<img src="https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/Screenshot_3.png" width="1000px"> 
+</div>
 
 Etapa 6 - Criar e editar o PowerBI com os dados que você trabalhou.
 [Arquivo Power BI](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/gold) 
@@ -55,6 +58,8 @@ No PowerBI criar gráficos de vendas.
 ![Resultado](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/powerbi.gif)
 
 Etapa 7 - Criar uma documentação com os testes e etapas do projeto.
+## Testes dos valoes no Jupyter
+![Testes](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/jupyter.gif)
 
 REGRAS
 Campos strings vazios deverão ser preenchidos com 'Não informado'.
