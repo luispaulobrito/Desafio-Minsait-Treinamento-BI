@@ -27,7 +27,7 @@ Etapa 2 - Criar o banco DESAFIO_CURSO e dentro tabelas no Hive usando o HQL e ex
         - TBL_REGIAO
         - TBL_DIVISAO
         
-[Scripts HQL que são executados autmoticamente pelo ShellScript](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/scripts/hql)
+[Scripts HQL que são executados automaticamente pelo ShellScript](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/scripts/hql)
 
 Etapa 3 - Processar os dados no Spark Efetuando suas devidas transformações criando os arquivos com a modelagem de BI.
 OBS. o desenvolvimento pode ser feito no jupyter porem no final o codigo deve estar no arquivo desafio_curso/scripts/process/process.py
