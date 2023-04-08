@@ -101,7 +101,7 @@ df_vendas_pais = df_vendas.join(df_endereco, df_vendas.customer_key == df_endere
 
 total_vendas = df_vendas.agg(sum("sales_amount")).collect()[0][0]
 df_vendas_pais = df_vendas_pais.withColumn("porcentagem", col("valor_total_vendas") / total_vendas * 100)\
-                    .orderBy('porcentagem', ascending=False)\
+                    .orderBy('porcentagem', ascending=True)\
                     .withColumn('porcentagem', col('porcentagem').cast(DecimalType(18, 2)))
 
 df_vendas_pais.show()
