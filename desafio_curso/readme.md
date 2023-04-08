@@ -15,7 +15,7 @@ Seu trabalho como engenheiro de dados/arquiteto de BI é prover dados em uma pas
 Etapa 1 - Enviar os arquivos para o HDFS
     - nesta etapa lembre de criar um shell script para fazer o trabalho repetitivo (não é obrigatório)
     
-[Script criado para de formar automática enviar os arquivos para o HDFS](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/input/projeto-hive/scripts/pre_process/create_env_all.sh)
+[Script criado para automatizar envio dos arquivos para o HDFS](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/pre_process/create_env_all.sh)
     
 
 Etapa 2 - Criar o banco DESAFIO_CURSO e dentro tabelas no Hive usando o HQL e executando um script shell dentro do hive server na pasta scripts/pre_process.
@@ -27,15 +27,15 @@ Etapa 2 - Criar o banco DESAFIO_CURSO e dentro tabelas no Hive usando o HQL e ex
         - TBL_REGIAO
         - TBL_DIVISAO
         
-[Scripts HQL que são executados automaticamente pelo ShellScript](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/scripts/hql)
+[Scripts HQL que são executados automaticamente pelo ShellScript](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/desafio_curso/scripts/hql)
 
 <img src="https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/Screenshot_1.png" width="1000px"> 
 </div>
 
 Etapa 3 - Processar os dados no Spark Efetuando suas devidas transformações criando os arquivos com a modelagem de BI.
-OBS. o desenvolvimento pode ser feito no jupyter porem no final o codigo deve estar no arquivo desafio_curso/scripts/process/process.py
+OBS. o desenvolvimento pode ser feito no jupyter porem no final o codigo deve estar no arquivo [desafio_curso/scripts/process/process.py](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/process.py)
 
-[Arquivo em PySpark que executa as etapas 3, 4, 5 e apresenta os testes dos valores](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/input/projeto-hive/scripts/process/Process.ipynb)
+[Arquivo em PySpark que executa as etapas 3, 4, 5 e apresenta os testes dos valores](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/Process.ipynb)
 
 Etapa 4 - Gravar as informações em tabelas dimensionais em formato cvs delimitado por ';'.
 
@@ -46,12 +46,12 @@ Etapa 4 - Gravar as informações em tabelas dimensionais em formato cvs delimit
         
 Etapa 5 - Exportar os dados para a pasta desafio_curso/gold
 
-[Tabelas processadas](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/gold)        
+[Tabelas processadas](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/desafio_curso/gold)        
 <img src="https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/Screenshot_3.png" width="1000px"> 
 </div>
 
 Etapa 6 - Criar e editar o PowerBI com os dados que você trabalhou.
-[Arquivo Power BI](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/gold) 
+[Arquivo Power BI](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/desafio_curso/app) 
 
 No PowerBI criar gráficos de vendas.
 ## Resultado no Power BI
