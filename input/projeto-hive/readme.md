@@ -58,7 +58,7 @@ No PowerBI criar gráficos de vendas.
 ![Resultado](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/powerbi.gif)
 
 Etapa 7 - Criar uma documentação com os testes e etapas do projeto.
-## Testes dos valoes no Jupyter
+## Testes dos valores no Jupyter
 ![Testes](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/jupyter.gif)
 
 REGRAS
