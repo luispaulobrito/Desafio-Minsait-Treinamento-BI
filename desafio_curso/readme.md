@@ -1,7 +1,7 @@
 DESAFIO BIG DATA/BI
 
 📌 ESCOPO DO DESAFIO
-Neste desafio serão feitas as ingestões dos dados que estão na pasta [/raw](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/raw) onde vamos ter alguns arquivos .csv de um banco relacional de vendas.
+Neste desafio foram feitas as ingestões dos dados que estão na pasta [/raw](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/raw) onde há alguns arquivos .csv de um banco relacional de vendas.
 
  - VENDAS.CSV
  - CLIENTES.CSV
@@ -9,11 +9,11 @@ Neste desafio serão feitas as ingestões dos dados que estão na pasta [/raw](h
  - REGIAO.CSV
  - DIVISAO.CSV
 
-Seu trabalho como engenheiro de dados/arquiteto de BI é prover dados em uma pasta desafio_curso/gold em .csv para ser consumido por um relatório em PowerBI que deverá ser construído dentro da pasta 'app' (já tem o template).
+Foram providos dados na pasta desafio_curso/gold em .csv para ser consumido por um relatório em PowerBI que foi construído dentro da pasta 'app'.
 
 📑 ETAPAS
 Etapa 1 - Enviar os arquivos para o HDFS
-    - nesta etapa lembre de criar um shell script para fazer o trabalho repetitivo (não é obrigatório)
+    - nesta etapa foi criado um shell script para fazer o trabalho repetitivo.
     
 [Script criado para automatizar envio dos arquivos para o HDFS](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/pre_process/create_env_all.sh)
     
@@ -33,7 +33,7 @@ Etapa 2 - Criar o banco DESAFIO_CURSO e dentro tabelas no Hive usando o HQL e ex
 </div>
 
 Etapa 3 - Processar os dados no Spark Efetuando suas devidas transformações criando os arquivos com a modelagem de BI.
-OBS. o desenvolvimento pode ser feito no jupyter porem no final o codigo deve estar no arquivo [desafio_curso/scripts/process/process.py](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/process.py)
+OBS. o desenvolvimento foi feito no jupyter e no final o codigo colocado no arquivo [desafio_curso/scripts/process/process.py](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/process.py)
 
 [Arquivo em PySpark que executa as etapas 3, 4, 5 e apresenta os testes dos valores](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/Process.ipynb)
 
@@ -50,7 +50,7 @@ Etapa 5 - Exportar os dados para a pasta desafio_curso/gold
 <img src="https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/Screenshot_3.png" width="1000px"> 
 </div>
 
-Etapa 6 - Criar e editar o PowerBI com os dados que você trabalhou.
+Etapa 6 - Criar e editar o PowerBI com os dados que foram trabalhados.
 [Arquivo Power BI](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/desafio_curso/app) 
 
 No PowerBI criar gráficos de vendas.
