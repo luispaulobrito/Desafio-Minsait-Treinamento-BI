@@ -1,7 +1,7 @@
 DESAFIO BIG DATA/BI
 
 📌 ESCOPO DO DESAFIO
-Neste desafio serão feitas as ingestões dos dados que estão na pasta /raw onde vamos ter alguns arquivos .csv de um banco relacional de vendas.
+Neste desafio serão feitas as ingestões dos dados que estão na pasta [/raw](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/raw) onde vamos ter alguns arquivos .csv de um banco relacional de vendas.
 
  - VENDAS.CSV
  - CLIENTES.CSV
@@ -28,6 +28,9 @@ Etapa 2 - Criar o banco DESAFIO_CURSO e dentro tabelas no Hive usando o HQL e ex
         - TBL_DIVISAO
         
 [Scripts HQL que são executados automaticamente pelo ShellScript](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/tree/main/input/projeto-hive/scripts/hql)
+
+<img src="https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/Screenshot_1.png" width="1000px"> 
+</div>
 
 Etapa 3 - Processar os dados no Spark Efetuando suas devidas transformações criando os arquivos com a modelagem de BI.
 OBS. o desenvolvimento pode ser feito no jupyter porem no final o codigo deve estar no arquivo desafio_curso/scripts/process/process.py
