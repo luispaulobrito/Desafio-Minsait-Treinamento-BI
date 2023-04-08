@@ -59,6 +59,8 @@ No PowerBI criar gráficos de vendas.
 
 Etapa 7 - Criar uma documentação com os testes e etapas do projeto.
 ## Testes dos valores no Jupyter
+[Arquivo com teste dos valores antes da etapa de transformação dos dados](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/desafio_curso/scripts/process/Testes%20Relacional.ipynb) 
+
 ![Testes](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/jupyter.gif)
 
 REGRAS
