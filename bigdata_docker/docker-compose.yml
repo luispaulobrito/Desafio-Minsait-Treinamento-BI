@@ -8,6 +8,7 @@ services:
     volumes:
       - ./data/hdfs/namenode:/hadoop/dfs/name
       - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     environment:
       - CLUSTER_NAME=test
     env_file:
@@ -26,6 +27,7 @@ services:
     volumes:
       - ./data/hdfs/datanode:/hadoop/dfs/data
       - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     env_file:
       - ./data/hadoop/hadoop-hive.env
     environment:
@@ -55,6 +57,7 @@ services:
     volumes:
       - ./data/teste:/teste
       - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     deploy:
       resources:
         limits:

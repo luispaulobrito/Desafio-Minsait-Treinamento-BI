@@ -7,6 +7,8 @@ services:
     hostname: namenode
     volumes:
       - ./data/hdfs/namenode:/hadoop/dfs/name
+      - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     environment:
       - CLUSTER_NAME=test
     env_file:
@@ -24,7 +26,8 @@ services:
     hostname: datanode
     volumes:
       - ./data/hdfs/datanode:/hadoop/dfs/data
-      #- ./data/hadoop/bank:/bank
+      - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     env_file:
       - ./data/hadoop/hadoop-hive.env
     environment:
@@ -51,6 +54,10 @@ services:
       - "10000:10000"
     depends_on:
       - hive-metastore
+    volumes:
+      - ./data/teste:/teste
+      - ../input:/opt/input
+      - ../desafio-curso:/opt/desafio-curso
     deploy:
       resources:
         limits:
@@ -79,7 +86,8 @@ services:
     container_name: hive-metastore-postgresql
     hostname: hive_metastore_postgresql
     volumes:
-      - ./data/postgresql:/var/lib/postgresql/data
+      #- ./data/postgresql:/var/lib/postgresql/data
+      - pgdata:/var/lib/postgresql/data
     depends_on:
       - datanode
     deploy:
@@ -116,7 +124,7 @@ services:
     command: mysqld --innodb-flush-method=O_DSYNC --innodb-use-native-aio=OFF --init-file /data/application/init.sql
     volumes:
         - ./data/mysql/data:/var/lib/mysql
-        - ./data/mysql/init.sql:/data/application/init.sql
+        - ./data/init.sql:/data/application/init.sql
     environment:
         MYSQL_ROOT_USER: root
         MYSQL_ROOT_PASSWORD: secret
@@ -143,8 +151,8 @@ services:
     hostname: kafka
     ports:
       - "9092:9092"
-    volumes:
-      - ./data/kafka:/kafka/kafka-logs-kafka
+    #volumes:
+    #  - ./data/kafka:/kafka/kafka-logs-kafka
     depends_on:
       - zookeeper
     environment:
@@ -184,12 +192,12 @@ services:
       resources:
         limits:
           memory: 500m
-  
+    
   mongo:
     image: fjardim/mongo
     container_name: mongo
     hostname: mongo
-    restart: always
+    #restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: root
@@ -206,7 +214,7 @@ services:
     image: fjardim/mongo-express
     container_name: mongo_express
     hostname: mongo_express
-    restart: always
+    #restart: always
     ports:
       - 8081:8081
     environment:
@@ -265,7 +273,7 @@ services:
         limits:
           memory: 500m
 
-  jupyter-spark:
+  jupyter-notebook-custom:
     image: fjardim/jupyter-spark
     hostname: jupyter-spark
     container_name: jupyter-spark
@@ -275,9 +283,6 @@ services:
     ports:
       - 8889:8889
       - 4040:4040
-      - 4041:4041
-      - 4042:4042
-      - 4043:4043
     volumes:
        - ./data/notebooks:/mnt/notebooks/
     environment:
@@ -287,3 +292,7 @@ services:
       resources:
         limits:
           memory: 1g
+
+volumes:
+  pgdata:
+   driver: local
