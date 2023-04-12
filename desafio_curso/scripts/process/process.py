@@ -102,9 +102,9 @@ df_localidade = spark.sql("SELECT DISTINCT PK_LOCALIDADE, address_number, city, 
 
 # função para salvar os dados
 def salvar_df(df, file):
-    output = "input/projeto-hive/gold/" + file
+    output = "desafio_curso/gold/" + file
     erase = "hdfs dfs -rm " + output + "/*"
-    rename = "hdfs dfs -get /datalake/gold/"+file+"/part-* input/projeto-hive/gold/"+file+".csv"
+    rename = "hdfs dfs -get /datalake/gold/"+file+"/part-* desafio_curso/gold/"+file+".csv"
     
     print(rename)    
     
