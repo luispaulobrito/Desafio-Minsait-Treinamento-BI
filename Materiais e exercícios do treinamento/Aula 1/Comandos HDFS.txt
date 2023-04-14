@@ -1,0 +1,67 @@
+HDFS HADOOP TREINAMENTO
+
+Caso seu cluster estiver desligado
+
+$ docker-compose.exe up -d
+
+Acessar o Namenode no docker digite no terminal
+
+docker.exe exec -it namenode bash
+
+#Versao do Hadoop
+hadoop version
+
+#Criar diretorio
+hdfs dfs -mkdir -p /dir
+Ex:
+hdfs dfs -mkdir -p /home/aluno
+
+#Apagar um arquivo 
+hdfs dfs -rm /dir/file.txt
+Ex:
+hdfs dfs -rm home/aluno/file.txt
+
+#Apagar diretorio e arquivos recursivamente
+hdfs dfs -rm /dir
+Ex:
+hdfs dfs -rm -r home/aluno/
+
+#Listar Arquivos
+hdfs dfs -ls /dir
+Ex:
+hdfs dfs -ls home/aluno/
+
+#Copiar arquivo do Unix para o HDFS
+hdfs dfs -get /unixpath /hdfspath
+Ex:
+hdfs dfs -put /input/* home/aluno/
+
+#Copiar arquivo do HDFS para o Unix
+hdfs dfs -get home/aluno/* /input/
+Ex:
+hdfs dfs -get home/aluno/* /input/
+
+#Copiar arquivo do Unix para o HDFS
+hdfs dfs -copyFromLocal /unixpath /hdfspath
+Ex:
+hdfs dfs -copyFromLocal /input/file.txt home/aluno/
+
+#Mover arquivo do Unix para o HDFS
+hdfs dfs -moveFromLocal /unixpath /hdfspath
+Ex:
+hdfs dfs -moveFromLocal /input/file.txt home/aluno/
+
+#Ler Fim do arquivo 
+hdfs dfs -tail /dir/file.txt
+Ex:
+hdfs dfs -tail /input/file.txt
+
+#Ver tamanho do arquivo
+hdfs dfs -du -s -h /input/file.txt
+
+#Contar linhas
+hdfs dfs -cat /input/file.txt | wc -l
+
+
+
+

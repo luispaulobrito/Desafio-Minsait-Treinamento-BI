@@ -1,0 +1,106 @@
+COMANDOS LINUX
+
+Caso seu cluster estiver desligado
+
+$ docker-compose.exe up -d
+
+Acessar o Namenode no docker digite no terminal
+
+docker.exe exec -it namenode bash
+
+dentro do linux iremos aprender os comandos
+
+ls -> comando usado para listar diretorios
+ex. ls /input
+
+cd -> comando usado para navegar nos diretorios do linux
+
+ex. cd /input
+
+mkdir -> comando usado para efetuar a criação de pastas no lugar onde vc está no linux
+
+ex. mkdir /input/aluno
+
+touch -> Comando usado para criar arquivos vazios no linux
+ex. touch dados_aluno.txt
+
+mv -> comando usado para mover ou renomear arquivos ou pastas
+
+ex. mv dados_alunos.txt /input/aluno
+
+rm -> comando usado para deletar pastas ou arquivos, pastas que contem arquivos devem ser usado o parametro -R (recursivo)
+
+rm /input/aluno/dados_aluno.txt (remover arquivos)
+rm -rf /input/aluno/ removendo a pasta inteira
+
+cat -> comando usado para visualizar arquivos em tela
+
+cat /input/aluno/dados_aluno.txt
+
+chmod -> comando para dar as permissões nos arquivos
+
+
+- editar texto no linux
+
+mkdir /input/aula01
+$ cd /input/aula01
+$ echo "Turma de Big Data" > aula.txt
+
+$ vi aula.txt
+- tecla o insert para edita
+- esc para parar a edição
+- wq! para salvar e sair do arquivo
+
+- criar um arquivo shell script
+
+$ cd /input/aula01
+$ touch script.sh
+$ vi script.sh
+- apertar o insert e digitar as linhas abaixo.
+
+-----------------------------------------------
+#!/bin/bash
+
+echo "Bem vindo ao curso de Big Data Indra"
+
+----------------------------------------------
+
+- teclar esc
+- teclar wq!
+
+$ chmod +x script.sh
+$ ./script.sh
+
+-> saida [Bem vindo ao curso de Big Data Indra]
+
+com Scripts em Shell conseguimos fazer varias automatizações em ambiente linux
+inclusive usamos muito este recurso.
+
+#Criando pastas usando shell
+
+$ cd /input/aula01
+$ touch criar_pastas.sh
+$ vi criar_pastas.sh
+------------------------------------
+#!/bin/bash
+
+echo "entrando no diretorio"
+cd /input/aula01
+
+echo "criando arquivos"
+touch arquivo01.txt
+touch arquivo02.txt
+touch arquivo03.txt
+
+
+echo "criando as pasta dados entrada"
+mkdir /input/aula01/dados_entrada
+
+echo "criando as pastas dados saida"
+mkdir /input/aula01/dados_saida
+
+---------------------------------------
+$ chmod +x criar_pastas.sh
+$ ./criar_pastas.sh
+
+

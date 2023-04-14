@@ -1,0 +1,30 @@
+Manipulando containers
+
+Listar Todos os Containers
+docker ps -a
+
+Listar Containers rodando
+docker ps -a
+
+Listar containers parados
+docker ps -f "status=exited"
+
+Iniciar todos os containers
+docker start $(docker ps -a -q)
+
+Parar um container
+docker stop <nome ou id container>
+
+Excluir um container
+docker rm nome ou id_container
+
+Excluir todos os containers
+docker rm -f $(docker ps -aq)
+
+Acessar terminal do container
+docker exec -it <nome container> bash
+
+Visualizar logs de um container
+docker logs -f <container>
+
+
