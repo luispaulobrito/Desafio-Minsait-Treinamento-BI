@@ -43,8 +43,16 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 * Shell Script
 * Docker
 
+
 ## Resultado no Power BI
 ![Resultado](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/powerbi.gif)
+  
+## Certificado do Treinamento
+
+<div align="center">
+  
+![Certificado](https://github.com/luispaulobrito/Desafio-Minsait-Treinamento-BI/blob/main/assets/CertificadoBIMinsait.jpg)
+</div>
 
 Desenvolvedor:
 [Luis Paulo Brito](https://github.com/luispaulobrito) 
